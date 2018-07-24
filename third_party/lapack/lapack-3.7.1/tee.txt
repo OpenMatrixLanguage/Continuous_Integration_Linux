@@ -1,0 +1,5467 @@
+In archive liblapack.a:
+
+sbdsvdx.o:     file format elf64-x86-64
+
+
+spotrf2.o:     file format elf64-x86-64
+
+
+sgetrf2.o:     file format elf64-x86-64
+
+
+sgbbrd.o:     file format elf64-x86-64
+
+
+sgbcon.o:     file format elf64-x86-64
+
+
+sgbequ.o:     file format elf64-x86-64
+
+
+sgbrfs.o:     file format elf64-x86-64
+
+
+sgbsv.o:     file format elf64-x86-64
+
+
+sgbsvx.o:     file format elf64-x86-64
+
+
+sgbtf2.o:     file format elf64-x86-64
+
+
+sgbtrf.o:     file format elf64-x86-64
+
+
+sgbtrs.o:     file format elf64-x86-64
+
+
+sgebak.o:     file format elf64-x86-64
+
+
+sgebal.o:     file format elf64-x86-64
+
+
+sgebd2.o:     file format elf64-x86-64
+
+
+sgebrd.o:     file format elf64-x86-64
+
+
+sgecon.o:     file format elf64-x86-64
+
+
+sgeequ.o:     file format elf64-x86-64
+
+
+sgees.o:     file format elf64-x86-64
+
+
+sgeesx.o:     file format elf64-x86-64
+
+
+sgeev.o:     file format elf64-x86-64
+
+
+sgeevx.o:     file format elf64-x86-64
+
+
+sgehd2.o:     file format elf64-x86-64
+
+
+sgehrd.o:     file format elf64-x86-64
+
+
+sgelq2.o:     file format elf64-x86-64
+
+
+sgelqf.o:     file format elf64-x86-64
+
+
+sgels.o:     file format elf64-x86-64
+
+
+sgelsd.o:     file format elf64-x86-64
+
+
+sgelss.o:     file format elf64-x86-64
+
+
+sgelsy.o:     file format elf64-x86-64
+
+
+sgeql2.o:     file format elf64-x86-64
+
+
+sgeqlf.o:     file format elf64-x86-64
+
+
+sgeqp3.o:     file format elf64-x86-64
+
+
+sgeqr2.o:     file format elf64-x86-64
+
+
+sgeqr2p.o:     file format elf64-x86-64
+
+
+sgeqrf.o:     file format elf64-x86-64
+
+
+sgeqrfp.o:     file format elf64-x86-64
+
+
+sgerfs.o:     file format elf64-x86-64
+
+
+sgerq2.o:     file format elf64-x86-64
+
+
+sgerqf.o:     file format elf64-x86-64
+
+
+sgesc2.o:     file format elf64-x86-64
+
+
+sgesdd.o:     file format elf64-x86-64
+
+
+sgesv.o:     file format elf64-x86-64
+
+
+sgesvd.o:     file format elf64-x86-64
+
+
+sgesvdx.o:     file format elf64-x86-64
+
+
+sgesvx.o:     file format elf64-x86-64
+
+
+sgetc2.o:     file format elf64-x86-64
+
+
+sgetf2.o:     file format elf64-x86-64
+
+
+sgetri.o:     file format elf64-x86-64
+
+
+sggbak.o:     file format elf64-x86-64
+
+
+sggbal.o:     file format elf64-x86-64
+
+
+sgges.o:     file format elf64-x86-64
+
+
+sgges3.o:     file format elf64-x86-64
+
+
+sggesx.o:     file format elf64-x86-64
+
+
+sggev.o:     file format elf64-x86-64
+
+
+sggev3.o:     file format elf64-x86-64
+
+
+sggevx.o:     file format elf64-x86-64
+
+
+sggglm.o:     file format elf64-x86-64
+
+
+sgghrd.o:     file format elf64-x86-64
+
+
+sgghd3.o:     file format elf64-x86-64
+
+
+sgglse.o:     file format elf64-x86-64
+
+
+sggqrf.o:     file format elf64-x86-64
+
+
+sggrqf.o:     file format elf64-x86-64
+
+
+sggsvd3.o:     file format elf64-x86-64
+
+
+sggsvp3.o:     file format elf64-x86-64
+
+
+sgtcon.o:     file format elf64-x86-64
+
+
+sgtrfs.o:     file format elf64-x86-64
+
+
+sgtsv.o:     file format elf64-x86-64
+
+
+sgtsvx.o:     file format elf64-x86-64
+
+
+sgttrf.o:     file format elf64-x86-64
+
+
+sgttrs.o:     file format elf64-x86-64
+
+
+sgtts2.o:     file format elf64-x86-64
+
+
+shgeqz.o:     file format elf64-x86-64
+
+
+shsein.o:     file format elf64-x86-64
+
+
+shseqr.o:     file format elf64-x86-64
+
+
+slabrd.o:     file format elf64-x86-64
+
+
+slacon.o:     file format elf64-x86-64
+
+
+slacn2.o:     file format elf64-x86-64
+
+
+slaein.o:     file format elf64-x86-64
+
+
+slaexc.o:     file format elf64-x86-64
+
+
+slag2.o:     file format elf64-x86-64
+
+
+slags2.o:     file format elf64-x86-64
+
+
+slagtm.o:     file format elf64-x86-64
+
+
+slagv2.o:     file format elf64-x86-64
+
+
+slahqr.o:     file format elf64-x86-64
+
+
+slahr2.o:     file format elf64-x86-64
+
+
+slaic1.o:     file format elf64-x86-64
+
+
+slaln2.o:     file format elf64-x86-64
+
+
+slals0.o:     file format elf64-x86-64
+
+
+slalsa.o:     file format elf64-x86-64
+
+
+slalsd.o:     file format elf64-x86-64
+
+
+slangb.o:     file format elf64-x86-64
+
+
+slange.o:     file format elf64-x86-64
+
+
+slangt.o:     file format elf64-x86-64
+
+
+slanhs.o:     file format elf64-x86-64
+
+
+slansb.o:     file format elf64-x86-64
+
+
+slansp.o:     file format elf64-x86-64
+
+
+slansy.o:     file format elf64-x86-64
+
+
+slantb.o:     file format elf64-x86-64
+
+
+slantp.o:     file format elf64-x86-64
+
+
+slantr.o:     file format elf64-x86-64
+
+
+slanv2.o:     file format elf64-x86-64
+
+
+slapll.o:     file format elf64-x86-64
+
+
+slapmt.o:     file format elf64-x86-64
+
+
+slaqgb.o:     file format elf64-x86-64
+
+
+slaqge.o:     file format elf64-x86-64
+
+
+slaqp2.o:     file format elf64-x86-64
+
+
+slaqps.o:     file format elf64-x86-64
+
+
+slaqsb.o:     file format elf64-x86-64
+
+
+slaqsp.o:     file format elf64-x86-64
+
+
+slaqsy.o:     file format elf64-x86-64
+
+
+slaqr0.o:     file format elf64-x86-64
+
+
+slaqr1.o:     file format elf64-x86-64
+
+
+slaqr2.o:     file format elf64-x86-64
+
+
+slaqr3.o:     file format elf64-x86-64
+
+
+slaqr4.o:     file format elf64-x86-64
+
+
+slaqr5.o:     file format elf64-x86-64
+
+
+slaqtr.o:     file format elf64-x86-64
+
+
+slar1v.o:     file format elf64-x86-64
+
+
+slar2v.o:     file format elf64-x86-64
+
+
+ilaslr.o:     file format elf64-x86-64
+
+
+ilaslc.o:     file format elf64-x86-64
+
+
+slarf.o:     file format elf64-x86-64
+
+
+slarfb.o:     file format elf64-x86-64
+
+
+slarfg.o:     file format elf64-x86-64
+
+
+slarfgp.o:     file format elf64-x86-64
+
+
+slarft.o:     file format elf64-x86-64
+
+
+slarfx.o:     file format elf64-x86-64
+
+
+slarfy.o:     file format elf64-x86-64
+
+
+slargv.o:     file format elf64-x86-64
+
+
+slarrv.o:     file format elf64-x86-64
+
+
+slartv.o:     file format elf64-x86-64
+
+
+slarz.o:     file format elf64-x86-64
+
+
+slarzb.o:     file format elf64-x86-64
+
+
+slarzt.o:     file format elf64-x86-64
+
+
+slaswp.o:     file format elf64-x86-64
+
+
+slasy2.o:     file format elf64-x86-64
+
+
+slasyf.o:     file format elf64-x86-64
+
+
+slasyf_rook.o:     file format elf64-x86-64
+
+
+slasyf_rk.o:     file format elf64-x86-64
+
+
+slatbs.o:     file format elf64-x86-64
+
+
+slatdf.o:     file format elf64-x86-64
+
+
+slatps.o:     file format elf64-x86-64
+
+
+slatrd.o:     file format elf64-x86-64
+
+
+slatrs.o:     file format elf64-x86-64
+
+
+slatrz.o:     file format elf64-x86-64
+
+
+slauu2.o:     file format elf64-x86-64
+
+
+slauum.o:     file format elf64-x86-64
+
+
+sopgtr.o:     file format elf64-x86-64
+
+
+sopmtr.o:     file format elf64-x86-64
+
+
+sorg2l.o:     file format elf64-x86-64
+
+
+sorg2r.o:     file format elf64-x86-64
+
+
+sorgbr.o:     file format elf64-x86-64
+
+
+sorghr.o:     file format elf64-x86-64
+
+
+sorgl2.o:     file format elf64-x86-64
+
+
+sorglq.o:     file format elf64-x86-64
+
+
+sorgql.o:     file format elf64-x86-64
+
+
+sorgqr.o:     file format elf64-x86-64
+
+
+sorgr2.o:     file format elf64-x86-64
+
+
+sorgrq.o:     file format elf64-x86-64
+
+
+sorgtr.o:     file format elf64-x86-64
+
+
+sorm2l.o:     file format elf64-x86-64
+
+
+sorm2r.o:     file format elf64-x86-64
+
+
+sorm22.o:     file format elf64-x86-64
+
+
+sormbr.o:     file format elf64-x86-64
+
+
+sormhr.o:     file format elf64-x86-64
+
+
+sorml2.o:     file format elf64-x86-64
+
+
+sormlq.o:     file format elf64-x86-64
+
+
+sormql.o:     file format elf64-x86-64
+
+
+sormqr.o:     file format elf64-x86-64
+
+
+sormr2.o:     file format elf64-x86-64
+
+
+sormr3.o:     file format elf64-x86-64
+
+
+sormrq.o:     file format elf64-x86-64
+
+
+sormrz.o:     file format elf64-x86-64
+
+
+sormtr.o:     file format elf64-x86-64
+
+
+spbcon.o:     file format elf64-x86-64
+
+
+spbequ.o:     file format elf64-x86-64
+
+
+spbrfs.o:     file format elf64-x86-64
+
+
+spbstf.o:     file format elf64-x86-64
+
+
+spbsv.o:     file format elf64-x86-64
+
+
+spbsvx.o:     file format elf64-x86-64
+
+
+spbtf2.o:     file format elf64-x86-64
+
+
+spbtrf.o:     file format elf64-x86-64
+
+
+spbtrs.o:     file format elf64-x86-64
+
+
+spocon.o:     file format elf64-x86-64
+
+
+spoequ.o:     file format elf64-x86-64
+
+
+sporfs.o:     file format elf64-x86-64
+
+
+sposv.o:     file format elf64-x86-64
+
+
+sposvx.o:     file format elf64-x86-64
+
+
+spotf2.o:     file format elf64-x86-64
+
+
+spotri.o:     file format elf64-x86-64
+
+
+spstrf.o:     file format elf64-x86-64
+
+
+spstf2.o:     file format elf64-x86-64
+
+
+sppcon.o:     file format elf64-x86-64
+
+
+sppequ.o:     file format elf64-x86-64
+
+
+spprfs.o:     file format elf64-x86-64
+
+
+sppsv.o:     file format elf64-x86-64
+
+
+sppsvx.o:     file format elf64-x86-64
+
+
+spptrf.o:     file format elf64-x86-64
+
+
+spptri.o:     file format elf64-x86-64
+
+
+spptrs.o:     file format elf64-x86-64
+
+
+sptcon.o:     file format elf64-x86-64
+
+
+spteqr.o:     file format elf64-x86-64
+
+
+sptrfs.o:     file format elf64-x86-64
+
+
+sptsv.o:     file format elf64-x86-64
+
+
+sptsvx.o:     file format elf64-x86-64
+
+
+spttrs.o:     file format elf64-x86-64
+
+
+sptts2.o:     file format elf64-x86-64
+
+
+srscl.o:     file format elf64-x86-64
+
+
+ssbev.o:     file format elf64-x86-64
+
+
+ssbevd.o:     file format elf64-x86-64
+
+
+ssbevx.o:     file format elf64-x86-64
+
+
+ssbgst.o:     file format elf64-x86-64
+
+
+ssbgv.o:     file format elf64-x86-64
+
+
+ssbgvd.o:     file format elf64-x86-64
+
+
+ssbgvx.o:     file format elf64-x86-64
+
+
+ssbtrd.o:     file format elf64-x86-64
+
+
+sspcon.o:     file format elf64-x86-64
+
+
+sspev.o:     file format elf64-x86-64
+
+
+sspevd.o:     file format elf64-x86-64
+
+
+sspevx.o:     file format elf64-x86-64
+
+
+sspgst.o:     file format elf64-x86-64
+
+
+sspgv.o:     file format elf64-x86-64
+
+
+sspgvd.o:     file format elf64-x86-64
+
+
+sspgvx.o:     file format elf64-x86-64
+
+
+ssprfs.o:     file format elf64-x86-64
+
+
+sspsv.o:     file format elf64-x86-64
+
+
+sspsvx.o:     file format elf64-x86-64
+
+
+ssptrd.o:     file format elf64-x86-64
+
+
+ssptrf.o:     file format elf64-x86-64
+
+
+ssptri.o:     file format elf64-x86-64
+
+
+ssptrs.o:     file format elf64-x86-64
+
+
+sstegr.o:     file format elf64-x86-64
+
+
+sstein.o:     file format elf64-x86-64
+
+
+sstev.o:     file format elf64-x86-64
+
+
+sstevd.o:     file format elf64-x86-64
+
+
+sstevr.o:     file format elf64-x86-64
+
+
+sstevx.o:     file format elf64-x86-64
+
+
+ssycon.o:     file format elf64-x86-64
+
+
+ssyev.o:     file format elf64-x86-64
+
+
+ssyevd.o:     file format elf64-x86-64
+
+
+ssyevr.o:     file format elf64-x86-64
+
+
+ssyevx.o:     file format elf64-x86-64
+
+
+ssygs2.o:     file format elf64-x86-64
+
+
+ssygst.o:     file format elf64-x86-64
+
+
+ssygv.o:     file format elf64-x86-64
+
+
+ssygvd.o:     file format elf64-x86-64
+
+
+ssygvx.o:     file format elf64-x86-64
+
+
+ssyrfs.o:     file format elf64-x86-64
+
+
+ssysv.o:     file format elf64-x86-64
+
+
+ssysvx.o:     file format elf64-x86-64
+
+
+ssytd2.o:     file format elf64-x86-64
+
+
+ssytf2.o:     file format elf64-x86-64
+
+
+ssytrd.o:     file format elf64-x86-64
+
+
+ssytrf.o:     file format elf64-x86-64
+
+
+ssytri.o:     file format elf64-x86-64
+
+
+ssytri2.o:     file format elf64-x86-64
+
+
+ssytri2x.o:     file format elf64-x86-64
+
+
+ssyswapr.o:     file format elf64-x86-64
+
+
+ssytrs.o:     file format elf64-x86-64
+
+
+ssytrs2.o:     file format elf64-x86-64
+
+
+ssyconv.o:     file format elf64-x86-64
+
+
+ssyconvf.o:     file format elf64-x86-64
+
+
+ssyconvf_rook.o:     file format elf64-x86-64
+
+
+ssytf2_rook.o:     file format elf64-x86-64
+
+
+ssytrf_rook.o:     file format elf64-x86-64
+
+
+ssytrs_rook.o:     file format elf64-x86-64
+
+
+ssytri_rook.o:     file format elf64-x86-64
+
+
+ssycon_rook.o:     file format elf64-x86-64
+
+
+ssysv_rook.o:     file format elf64-x86-64
+
+
+ssytf2_rk.o:     file format elf64-x86-64
+
+
+ssytrf_rk.o:     file format elf64-x86-64
+
+
+ssytrs_3.o:     file format elf64-x86-64
+
+
+ssytri_3.o:     file format elf64-x86-64
+
+
+ssytri_3x.o:     file format elf64-x86-64
+
+
+ssycon_3.o:     file format elf64-x86-64
+
+
+ssysv_rk.o:     file format elf64-x86-64
+
+
+slasyf_aa.o:     file format elf64-x86-64
+
+
+ssysv_aa.o:     file format elf64-x86-64
+
+
+ssytrf_aa.o:     file format elf64-x86-64
+
+
+ssytrs_aa.o:     file format elf64-x86-64
+
+
+stbcon.o:     file format elf64-x86-64
+
+
+stbrfs.o:     file format elf64-x86-64
+
+
+stbtrs.o:     file format elf64-x86-64
+
+
+stgevc.o:     file format elf64-x86-64
+
+
+stgex2.o:     file format elf64-x86-64
+
+
+stgexc.o:     file format elf64-x86-64
+
+
+stgsen.o:     file format elf64-x86-64
+
+
+stgsja.o:     file format elf64-x86-64
+
+
+stgsna.o:     file format elf64-x86-64
+
+
+stgsy2.o:     file format elf64-x86-64
+
+
+stgsyl.o:     file format elf64-x86-64
+
+
+stpcon.o:     file format elf64-x86-64
+
+
+stprfs.o:     file format elf64-x86-64
+
+
+stptri.o:     file format elf64-x86-64
+
+
+stptrs.o:     file format elf64-x86-64
+
+
+strcon.o:     file format elf64-x86-64
+
+
+strevc.o:     file format elf64-x86-64
+
+
+strevc3.o:     file format elf64-x86-64
+
+
+strexc.o:     file format elf64-x86-64
+
+
+strrfs.o:     file format elf64-x86-64
+
+
+strsen.o:     file format elf64-x86-64
+
+
+strsna.o:     file format elf64-x86-64
+
+
+strsyl.o:     file format elf64-x86-64
+
+
+strti2.o:     file format elf64-x86-64
+
+
+strtri.o:     file format elf64-x86-64
+
+
+strtrs.o:     file format elf64-x86-64
+
+
+stzrzf.o:     file format elf64-x86-64
+
+
+sstemr.o:     file format elf64-x86-64
+
+
+slansf.o:     file format elf64-x86-64
+
+
+spftrf.o:     file format elf64-x86-64
+
+
+spftri.o:     file format elf64-x86-64
+
+
+spftrs.o:     file format elf64-x86-64
+
+
+ssfrk.o:     file format elf64-x86-64
+
+
+stfsm.o:     file format elf64-x86-64
+
+
+stftri.o:     file format elf64-x86-64
+
+
+stfttp.o:     file format elf64-x86-64
+
+
+stfttr.o:     file format elf64-x86-64
+
+
+stpttf.o:     file format elf64-x86-64
+
+
+stpttr.o:     file format elf64-x86-64
+
+
+strttf.o:     file format elf64-x86-64
+
+
+strttp.o:     file format elf64-x86-64
+
+
+sgejsv.o:     file format elf64-x86-64
+
+
+sgesvj.o:     file format elf64-x86-64
+
+
+sgsvj0.o:     file format elf64-x86-64
+
+
+sgsvj1.o:     file format elf64-x86-64
+
+
+sgeequb.o:     file format elf64-x86-64
+
+
+ssyequb.o:     file format elf64-x86-64
+
+
+spoequb.o:     file format elf64-x86-64
+
+
+sgbequb.o:     file format elf64-x86-64
+
+
+sbbcsd.o:     file format elf64-x86-64
+
+
+slapmr.o:     file format elf64-x86-64
+
+
+sorbdb.o:     file format elf64-x86-64
+
+
+sorbdb1.o:     file format elf64-x86-64
+
+
+sorbdb2.o:     file format elf64-x86-64
+
+
+sorbdb3.o:     file format elf64-x86-64
+
+
+sorbdb4.o:     file format elf64-x86-64
+
+
+sorbdb5.o:     file format elf64-x86-64
+
+
+sorbdb6.o:     file format elf64-x86-64
+
+
+sorcsd.o:     file format elf64-x86-64
+
+
+sorcsd2by1.o:     file format elf64-x86-64
+
+
+sgeqrt.o:     file format elf64-x86-64
+
+
+sgeqrt2.o:     file format elf64-x86-64
+
+
+sgeqrt3.o:     file format elf64-x86-64
+
+
+sgemqrt.o:     file format elf64-x86-64
+
+
+stpqrt.o:     file format elf64-x86-64
+
+
+stpqrt2.o:     file format elf64-x86-64
+
+
+stpmqrt.o:     file format elf64-x86-64
+
+
+stprfb.o:     file format elf64-x86-64
+
+
+sgelqt.o:     file format elf64-x86-64
+
+
+sgelqt3.o:     file format elf64-x86-64
+
+
+sgemlqt.o:     file format elf64-x86-64
+
+
+sgetsls.o:     file format elf64-x86-64
+
+
+sgeqr.o:     file format elf64-x86-64
+
+
+slatsqr.o:     file format elf64-x86-64
+
+
+slamtsqr.o:     file format elf64-x86-64
+
+
+sgemqr.o:     file format elf64-x86-64
+
+
+sgelq.o:     file format elf64-x86-64
+
+
+slaswlq.o:     file format elf64-x86-64
+
+
+slamswlq.o:     file format elf64-x86-64
+
+
+sgemlq.o:     file format elf64-x86-64
+
+
+stplqt.o:     file format elf64-x86-64
+
+
+stplqt2.o:     file format elf64-x86-64
+
+
+stpmlqt.o:     file format elf64-x86-64
+
+
+ssytrd_2stage.o:     file format elf64-x86-64
+
+
+ssytrd_sy2sb.o:     file format elf64-x86-64
+
+
+ssytrd_sb2st.o:     file format elf64-x86-64
+
+
+ssb2st_kernels.o:     file format elf64-x86-64
+
+
+ssyevd_2stage.o:     file format elf64-x86-64
+
+
+ssyev_2stage.o:     file format elf64-x86-64
+
+
+ssyevx_2stage.o:     file format elf64-x86-64
+
+
+ssyevr_2stage.o:     file format elf64-x86-64
+
+
+ssbev_2stage.o:     file format elf64-x86-64
+
+
+ssbevx_2stage.o:     file format elf64-x86-64
+
+
+ssbevd_2stage.o:     file format elf64-x86-64
+
+
+ssygv_2stage.o:     file format elf64-x86-64
+
+
+dpotrf2.o:     file format elf64-x86-64
+
+
+dgetrf2.o:     file format elf64-x86-64
+
+
+dbdsvdx.o:     file format elf64-x86-64
+
+
+dgbbrd.o:     file format elf64-x86-64
+
+
+dgbcon.o:     file format elf64-x86-64
+
+
+dgbequ.o:     file format elf64-x86-64
+
+
+dgbrfs.o:     file format elf64-x86-64
+
+
+dgbsv.o:     file format elf64-x86-64
+
+
+dgbsvx.o:     file format elf64-x86-64
+
+
+dgbtf2.o:     file format elf64-x86-64
+
+
+dgbtrf.o:     file format elf64-x86-64
+
+
+dgbtrs.o:     file format elf64-x86-64
+
+
+dgebak.o:     file format elf64-x86-64
+
+
+dgebal.o:     file format elf64-x86-64
+
+
+dgebd2.o:     file format elf64-x86-64
+
+
+dgebrd.o:     file format elf64-x86-64
+
+
+dgecon.o:     file format elf64-x86-64
+
+
+dgeequ.o:     file format elf64-x86-64
+
+
+dgees.o:     file format elf64-x86-64
+
+
+dgeesx.o:     file format elf64-x86-64
+
+
+dgeev.o:     file format elf64-x86-64
+
+
+dgeevx.o:     file format elf64-x86-64
+
+
+dgehd2.o:     file format elf64-x86-64
+
+
+dgehrd.o:     file format elf64-x86-64
+
+
+dgelq2.o:     file format elf64-x86-64
+
+
+dgelqf.o:     file format elf64-x86-64
+
+
+dgels.o:     file format elf64-x86-64
+
+
+dgelsd.o:     file format elf64-x86-64
+
+
+dgelss.o:     file format elf64-x86-64
+
+
+dgelsy.o:     file format elf64-x86-64
+
+
+dgeql2.o:     file format elf64-x86-64
+
+
+dgeqlf.o:     file format elf64-x86-64
+
+
+dgeqp3.o:     file format elf64-x86-64
+
+
+dgeqr2.o:     file format elf64-x86-64
+
+
+dgeqr2p.o:     file format elf64-x86-64
+
+
+dgeqrf.o:     file format elf64-x86-64
+
+
+dgeqrfp.o:     file format elf64-x86-64
+
+
+dgerfs.o:     file format elf64-x86-64
+
+
+dgerq2.o:     file format elf64-x86-64
+
+
+dgerqf.o:     file format elf64-x86-64
+
+
+dgesc2.o:     file format elf64-x86-64
+
+
+dgesdd.o:     file format elf64-x86-64
+
+
+dgesv.o:     file format elf64-x86-64
+
+
+dgesvd.o:     file format elf64-x86-64
+
+
+dgesvdx.o:     file format elf64-x86-64
+
+
+dgesvx.o:     file format elf64-x86-64
+
+
+dgetc2.o:     file format elf64-x86-64
+
+
+dgetf2.o:     file format elf64-x86-64
+
+
+dgetrf.o:     file format elf64-x86-64
+
+
+dgetri.o:     file format elf64-x86-64
+
+
+dgetrs.o:     file format elf64-x86-64
+
+
+dggbak.o:     file format elf64-x86-64
+
+
+dggbal.o:     file format elf64-x86-64
+
+
+dgges.o:     file format elf64-x86-64
+
+
+dgges3.o:     file format elf64-x86-64
+
+
+dggesx.o:     file format elf64-x86-64
+
+
+dggev.o:     file format elf64-x86-64
+
+
+dggev3.o:     file format elf64-x86-64
+
+
+dggevx.o:     file format elf64-x86-64
+
+
+dggglm.o:     file format elf64-x86-64
+
+
+dgghrd.o:     file format elf64-x86-64
+
+
+dgghd3.o:     file format elf64-x86-64
+
+
+dgglse.o:     file format elf64-x86-64
+
+
+dggqrf.o:     file format elf64-x86-64
+
+
+dggrqf.o:     file format elf64-x86-64
+
+
+dggsvd3.o:     file format elf64-x86-64
+
+
+dggsvp3.o:     file format elf64-x86-64
+
+
+dgtcon.o:     file format elf64-x86-64
+
+
+dgtrfs.o:     file format elf64-x86-64
+
+
+dgtsv.o:     file format elf64-x86-64
+
+
+dgtsvx.o:     file format elf64-x86-64
+
+
+dgttrf.o:     file format elf64-x86-64
+
+
+dgttrs.o:     file format elf64-x86-64
+
+
+dgtts2.o:     file format elf64-x86-64
+
+
+dhgeqz.o:     file format elf64-x86-64
+
+
+dhsein.o:     file format elf64-x86-64
+
+
+dhseqr.o:     file format elf64-x86-64
+
+
+dlabrd.o:     file format elf64-x86-64
+
+
+dlacon.o:     file format elf64-x86-64
+
+
+dlacn2.o:     file format elf64-x86-64
+
+
+dlaein.o:     file format elf64-x86-64
+
+
+dlaexc.o:     file format elf64-x86-64
+
+
+dlag2.o:     file format elf64-x86-64
+
+
+dlags2.o:     file format elf64-x86-64
+
+
+dlagtm.o:     file format elf64-x86-64
+
+
+dlagv2.o:     file format elf64-x86-64
+
+
+dlahqr.o:     file format elf64-x86-64
+
+
+dlahr2.o:     file format elf64-x86-64
+
+
+dlaic1.o:     file format elf64-x86-64
+
+
+dlaln2.o:     file format elf64-x86-64
+
+
+dlals0.o:     file format elf64-x86-64
+
+
+dlalsa.o:     file format elf64-x86-64
+
+
+dlalsd.o:     file format elf64-x86-64
+
+
+dlangb.o:     file format elf64-x86-64
+
+
+dlange.o:     file format elf64-x86-64
+
+
+dlangt.o:     file format elf64-x86-64
+
+
+dlanhs.o:     file format elf64-x86-64
+
+
+dlansb.o:     file format elf64-x86-64
+
+
+dlansp.o:     file format elf64-x86-64
+
+
+dlansy.o:     file format elf64-x86-64
+
+
+dlantb.o:     file format elf64-x86-64
+
+
+dlantp.o:     file format elf64-x86-64
+
+
+dlantr.o:     file format elf64-x86-64
+
+
+dlanv2.o:     file format elf64-x86-64
+
+
+dlapll.o:     file format elf64-x86-64
+
+
+dlapmt.o:     file format elf64-x86-64
+
+
+dlaqgb.o:     file format elf64-x86-64
+
+
+dlaqge.o:     file format elf64-x86-64
+
+
+dlaqp2.o:     file format elf64-x86-64
+
+
+dlaqps.o:     file format elf64-x86-64
+
+
+dlaqsb.o:     file format elf64-x86-64
+
+
+dlaqsp.o:     file format elf64-x86-64
+
+
+dlaqsy.o:     file format elf64-x86-64
+
+
+dlaqr0.o:     file format elf64-x86-64
+
+
+dlaqr1.o:     file format elf64-x86-64
+
+
+dlaqr2.o:     file format elf64-x86-64
+
+
+dlaqr3.o:     file format elf64-x86-64
+
+
+dlaqr4.o:     file format elf64-x86-64
+
+
+dlaqr5.o:     file format elf64-x86-64
+
+
+dlaqtr.o:     file format elf64-x86-64
+
+
+dlar1v.o:     file format elf64-x86-64
+
+
+dlar2v.o:     file format elf64-x86-64
+
+
+iladlr.o:     file format elf64-x86-64
+
+
+iladlc.o:     file format elf64-x86-64
+
+
+dlarf.o:     file format elf64-x86-64
+
+
+dlarfb.o:     file format elf64-x86-64
+
+
+dlarfg.o:     file format elf64-x86-64
+
+
+dlarfgp.o:     file format elf64-x86-64
+
+
+dlarft.o:     file format elf64-x86-64
+
+
+dlarfx.o:     file format elf64-x86-64
+
+
+dlarfy.o:     file format elf64-x86-64
+
+
+dlargv.o:     file format elf64-x86-64
+
+
+dlarrv.o:     file format elf64-x86-64
+
+
+dlartv.o:     file format elf64-x86-64
+
+
+dlarz.o:     file format elf64-x86-64
+
+
+dlarzb.o:     file format elf64-x86-64
+
+
+dlarzt.o:     file format elf64-x86-64
+
+
+dlaswp.o:     file format elf64-x86-64
+
+
+dlasy2.o:     file format elf64-x86-64
+
+
+dlasyf.o:     file format elf64-x86-64
+
+
+dlasyf_rook.o:     file format elf64-x86-64
+
+
+dlasyf_rk.o:     file format elf64-x86-64
+
+
+dlatbs.o:     file format elf64-x86-64
+
+
+dlatdf.o:     file format elf64-x86-64
+
+
+dlatps.o:     file format elf64-x86-64
+
+
+dlatrd.o:     file format elf64-x86-64
+
+
+dlatrs.o:     file format elf64-x86-64
+
+
+dlatrz.o:     file format elf64-x86-64
+
+
+dlauu2.o:     file format elf64-x86-64
+
+
+dlauum.o:     file format elf64-x86-64
+
+
+dopgtr.o:     file format elf64-x86-64
+
+
+dopmtr.o:     file format elf64-x86-64
+
+
+dorg2l.o:     file format elf64-x86-64
+
+
+dorg2r.o:     file format elf64-x86-64
+
+
+dorgbr.o:     file format elf64-x86-64
+
+
+dorghr.o:     file format elf64-x86-64
+
+
+dorgl2.o:     file format elf64-x86-64
+
+
+dorglq.o:     file format elf64-x86-64
+
+
+dorgql.o:     file format elf64-x86-64
+
+
+dorgqr.o:     file format elf64-x86-64
+
+
+dorgr2.o:     file format elf64-x86-64
+
+
+dorgrq.o:     file format elf64-x86-64
+
+
+dorgtr.o:     file format elf64-x86-64
+
+
+dorm2l.o:     file format elf64-x86-64
+
+
+dorm2r.o:     file format elf64-x86-64
+
+
+dorm22.o:     file format elf64-x86-64
+
+
+dormbr.o:     file format elf64-x86-64
+
+
+dormhr.o:     file format elf64-x86-64
+
+
+dorml2.o:     file format elf64-x86-64
+
+
+dormlq.o:     file format elf64-x86-64
+
+
+dormql.o:     file format elf64-x86-64
+
+
+dormqr.o:     file format elf64-x86-64
+
+
+dormr2.o:     file format elf64-x86-64
+
+
+dormr3.o:     file format elf64-x86-64
+
+
+dormrq.o:     file format elf64-x86-64
+
+
+dormrz.o:     file format elf64-x86-64
+
+
+dormtr.o:     file format elf64-x86-64
+
+
+dpbcon.o:     file format elf64-x86-64
+
+
+dpbequ.o:     file format elf64-x86-64
+
+
+dpbrfs.o:     file format elf64-x86-64
+
+
+dpbstf.o:     file format elf64-x86-64
+
+
+dpbsv.o:     file format elf64-x86-64
+
+
+dpbsvx.o:     file format elf64-x86-64
+
+
+dpbtf2.o:     file format elf64-x86-64
+
+
+dpbtrf.o:     file format elf64-x86-64
+
+
+dpbtrs.o:     file format elf64-x86-64
+
+
+dpocon.o:     file format elf64-x86-64
+
+
+dpoequ.o:     file format elf64-x86-64
+
+
+dporfs.o:     file format elf64-x86-64
+
+
+dposv.o:     file format elf64-x86-64
+
+
+dposvx.o:     file format elf64-x86-64
+
+
+dpotf2.o:     file format elf64-x86-64
+
+
+dpotrf.o:     file format elf64-x86-64
+
+
+dpotri.o:     file format elf64-x86-64
+
+
+dpotrs.o:     file format elf64-x86-64
+
+
+dpstrf.o:     file format elf64-x86-64
+
+
+dpstf2.o:     file format elf64-x86-64
+
+
+dppcon.o:     file format elf64-x86-64
+
+
+dppequ.o:     file format elf64-x86-64
+
+
+dpprfs.o:     file format elf64-x86-64
+
+
+dppsv.o:     file format elf64-x86-64
+
+
+dppsvx.o:     file format elf64-x86-64
+
+
+dpptrf.o:     file format elf64-x86-64
+
+
+dpptri.o:     file format elf64-x86-64
+
+
+dpptrs.o:     file format elf64-x86-64
+
+
+dptcon.o:     file format elf64-x86-64
+
+
+dpteqr.o:     file format elf64-x86-64
+
+
+dptrfs.o:     file format elf64-x86-64
+
+
+dptsv.o:     file format elf64-x86-64
+
+
+dptsvx.o:     file format elf64-x86-64
+
+
+dpttrs.o:     file format elf64-x86-64
+
+
+dptts2.o:     file format elf64-x86-64
+
+
+drscl.o:     file format elf64-x86-64
+
+
+dsbev.o:     file format elf64-x86-64
+
+
+dsbevd.o:     file format elf64-x86-64
+
+
+dsbevx.o:     file format elf64-x86-64
+
+
+dsbgst.o:     file format elf64-x86-64
+
+
+dsbgv.o:     file format elf64-x86-64
+
+
+dsbgvd.o:     file format elf64-x86-64
+
+
+dsbgvx.o:     file format elf64-x86-64
+
+
+dsbtrd.o:     file format elf64-x86-64
+
+
+dspcon.o:     file format elf64-x86-64
+
+
+dspev.o:     file format elf64-x86-64
+
+
+dspevd.o:     file format elf64-x86-64
+
+
+dspevx.o:     file format elf64-x86-64
+
+
+dspgst.o:     file format elf64-x86-64
+
+
+dspgv.o:     file format elf64-x86-64
+
+
+dspgvd.o:     file format elf64-x86-64
+
+
+dspgvx.o:     file format elf64-x86-64
+
+
+dsprfs.o:     file format elf64-x86-64
+
+
+dspsv.o:     file format elf64-x86-64
+
+
+dspsvx.o:     file format elf64-x86-64
+
+
+dsptrd.o:     file format elf64-x86-64
+
+
+dsptrf.o:     file format elf64-x86-64
+
+
+dsptri.o:     file format elf64-x86-64
+
+
+dsptrs.o:     file format elf64-x86-64
+
+
+dstegr.o:     file format elf64-x86-64
+
+
+dstein.o:     file format elf64-x86-64
+
+
+dstev.o:     file format elf64-x86-64
+
+
+dstevd.o:     file format elf64-x86-64
+
+
+dstevr.o:     file format elf64-x86-64
+
+
+dstevx.o:     file format elf64-x86-64
+
+
+dsycon.o:     file format elf64-x86-64
+
+
+dsyev.o:     file format elf64-x86-64
+
+
+dsyevd.o:     file format elf64-x86-64
+
+
+dsyevr.o:     file format elf64-x86-64
+
+
+dsyevx.o:     file format elf64-x86-64
+
+
+dsygs2.o:     file format elf64-x86-64
+
+
+dsygst.o:     file format elf64-x86-64
+
+
+dsygv.o:     file format elf64-x86-64
+
+
+dsygvd.o:     file format elf64-x86-64
+
+
+dsygvx.o:     file format elf64-x86-64
+
+
+dsyrfs.o:     file format elf64-x86-64
+
+
+dsysv.o:     file format elf64-x86-64
+
+
+dsysvx.o:     file format elf64-x86-64
+
+
+dsytd2.o:     file format elf64-x86-64
+
+
+dsytf2.o:     file format elf64-x86-64
+
+
+dsytrd.o:     file format elf64-x86-64
+
+
+dsytrf.o:     file format elf64-x86-64
+
+
+dsytri.o:     file format elf64-x86-64
+
+
+dsytri2.o:     file format elf64-x86-64
+
+
+dsytri2x.o:     file format elf64-x86-64
+
+
+dsyswapr.o:     file format elf64-x86-64
+
+
+dsytrs.o:     file format elf64-x86-64
+
+
+dsytrs2.o:     file format elf64-x86-64
+
+
+dsyconv.o:     file format elf64-x86-64
+
+
+dsyconvf.o:     file format elf64-x86-64
+
+
+dsyconvf_rook.o:     file format elf64-x86-64
+
+
+dsytf2_rook.o:     file format elf64-x86-64
+
+
+dsytrf_rook.o:     file format elf64-x86-64
+
+
+dsytrs_rook.o:     file format elf64-x86-64
+
+
+dsytri_rook.o:     file format elf64-x86-64
+
+
+dsycon_rook.o:     file format elf64-x86-64
+
+
+dsysv_rook.o:     file format elf64-x86-64
+
+
+dsytf2_rk.o:     file format elf64-x86-64
+
+
+dsytrf_rk.o:     file format elf64-x86-64
+
+
+dsytrs_3.o:     file format elf64-x86-64
+
+
+dsytri_3.o:     file format elf64-x86-64
+
+
+dsytri_3x.o:     file format elf64-x86-64
+
+
+dsycon_3.o:     file format elf64-x86-64
+
+
+dsysv_rk.o:     file format elf64-x86-64
+
+
+dlasyf_aa.o:     file format elf64-x86-64
+
+
+dsysv_aa.o:     file format elf64-x86-64
+
+
+dsytrf_aa.o:     file format elf64-x86-64
+
+
+dsytrs_aa.o:     file format elf64-x86-64
+
+
+dtbcon.o:     file format elf64-x86-64
+
+
+dtbrfs.o:     file format elf64-x86-64
+
+
+dtbtrs.o:     file format elf64-x86-64
+
+
+dtgevc.o:     file format elf64-x86-64
+
+
+dtgex2.o:     file format elf64-x86-64
+
+
+dtgexc.o:     file format elf64-x86-64
+
+
+dtgsen.o:     file format elf64-x86-64
+
+
+dtgsja.o:     file format elf64-x86-64
+
+
+dtgsna.o:     file format elf64-x86-64
+
+
+dtgsy2.o:     file format elf64-x86-64
+
+
+dtgsyl.o:     file format elf64-x86-64
+
+
+dtpcon.o:     file format elf64-x86-64
+
+
+dtprfs.o:     file format elf64-x86-64
+
+
+dtptri.o:     file format elf64-x86-64
+
+
+dtptrs.o:     file format elf64-x86-64
+
+
+dtrcon.o:     file format elf64-x86-64
+
+
+dtrevc.o:     file format elf64-x86-64
+
+
+dtrevc3.o:     file format elf64-x86-64
+
+
+dtrexc.o:     file format elf64-x86-64
+
+
+dtrrfs.o:     file format elf64-x86-64
+
+
+dtrsen.o:     file format elf64-x86-64
+
+
+dtrsna.o:     file format elf64-x86-64
+
+
+dtrsyl.o:     file format elf64-x86-64
+
+
+dtrti2.o:     file format elf64-x86-64
+
+
+dtrtri.o:     file format elf64-x86-64
+
+
+dtrtrs.o:     file format elf64-x86-64
+
+
+dtzrzf.o:     file format elf64-x86-64
+
+
+dstemr.o:     file format elf64-x86-64
+
+
+dsgesv.o:     file format elf64-x86-64
+
+
+dsposv.o:     file format elf64-x86-64
+
+
+dlag2s.o:     file format elf64-x86-64
+
+
+slag2d.o:     file format elf64-x86-64
+
+
+dlat2s.o:     file format elf64-x86-64
+
+
+dlansf.o:     file format elf64-x86-64
+
+
+dpftrf.o:     file format elf64-x86-64
+
+
+dpftri.o:     file format elf64-x86-64
+
+
+dpftrs.o:     file format elf64-x86-64
+
+
+dsfrk.o:     file format elf64-x86-64
+
+
+dtfsm.o:     file format elf64-x86-64
+
+
+dtftri.o:     file format elf64-x86-64
+
+
+dtfttp.o:     file format elf64-x86-64
+
+
+dtfttr.o:     file format elf64-x86-64
+
+
+dtpttf.o:     file format elf64-x86-64
+
+
+dtpttr.o:     file format elf64-x86-64
+
+
+dtrttf.o:     file format elf64-x86-64
+
+
+dtrttp.o:     file format elf64-x86-64
+
+
+dgejsv.o:     file format elf64-x86-64
+
+
+dgesvj.o:     file format elf64-x86-64
+
+
+dgsvj0.o:     file format elf64-x86-64
+
+
+dgsvj1.o:     file format elf64-x86-64
+
+
+dgeequb.o:     file format elf64-x86-64
+
+
+dsyequb.o:     file format elf64-x86-64
+
+
+dpoequb.o:     file format elf64-x86-64
+
+
+dgbequb.o:     file format elf64-x86-64
+
+
+dbbcsd.o:     file format elf64-x86-64
+
+
+dlapmr.o:     file format elf64-x86-64
+
+
+dorbdb.o:     file format elf64-x86-64
+
+
+dorbdb1.o:     file format elf64-x86-64
+
+
+dorbdb2.o:     file format elf64-x86-64
+
+
+dorbdb3.o:     file format elf64-x86-64
+
+
+dorbdb4.o:     file format elf64-x86-64
+
+
+dorbdb5.o:     file format elf64-x86-64
+
+
+dorbdb6.o:     file format elf64-x86-64
+
+
+dorcsd.o:     file format elf64-x86-64
+
+
+dorcsd2by1.o:     file format elf64-x86-64
+
+
+dgeqrt.o:     file format elf64-x86-64
+
+
+dgeqrt2.o:     file format elf64-x86-64
+
+
+dgeqrt3.o:     file format elf64-x86-64
+
+
+dgemqrt.o:     file format elf64-x86-64
+
+
+dtpqrt.o:     file format elf64-x86-64
+
+
+dtpqrt2.o:     file format elf64-x86-64
+
+
+dtpmqrt.o:     file format elf64-x86-64
+
+
+dtprfb.o:     file format elf64-x86-64
+
+
+dgelqt.o:     file format elf64-x86-64
+
+
+dgelqt3.o:     file format elf64-x86-64
+
+
+dgemlqt.o:     file format elf64-x86-64
+
+
+dgetsls.o:     file format elf64-x86-64
+
+
+dgeqr.o:     file format elf64-x86-64
+
+
+dlatsqr.o:     file format elf64-x86-64
+
+
+dlamtsqr.o:     file format elf64-x86-64
+
+
+dgemqr.o:     file format elf64-x86-64
+
+
+dgelq.o:     file format elf64-x86-64
+
+
+dlaswlq.o:     file format elf64-x86-64
+
+
+dlamswlq.o:     file format elf64-x86-64
+
+
+dgemlq.o:     file format elf64-x86-64
+
+
+dtplqt.o:     file format elf64-x86-64
+
+
+dtplqt2.o:     file format elf64-x86-64
+
+
+dtpmlqt.o:     file format elf64-x86-64
+
+
+dsytrd_2stage.o:     file format elf64-x86-64
+
+
+dsytrd_sy2sb.o:     file format elf64-x86-64
+
+
+dsytrd_sb2st.o:     file format elf64-x86-64
+
+
+dsb2st_kernels.o:     file format elf64-x86-64
+
+
+dsyevd_2stage.o:     file format elf64-x86-64
+
+
+dsyev_2stage.o:     file format elf64-x86-64
+
+
+dsyevx_2stage.o:     file format elf64-x86-64
+
+
+dsyevr_2stage.o:     file format elf64-x86-64
+
+
+dsbev_2stage.o:     file format elf64-x86-64
+
+
+dsbevx_2stage.o:     file format elf64-x86-64
+
+
+dsbevd_2stage.o:     file format elf64-x86-64
+
+
+dsygv_2stage.o:     file format elf64-x86-64
+
+
+spotrs.o:     file format elf64-x86-64
+
+
+sgetrs.o:     file format elf64-x86-64
+
+
+spotrf.o:     file format elf64-x86-64
+
+
+sgetrf.o:     file format elf64-x86-64
+
+
+cpotrf2.o:     file format elf64-x86-64
+
+
+cgetrf2.o:     file format elf64-x86-64
+
+
+cbdsqr.o:     file format elf64-x86-64
+
+
+cgbbrd.o:     file format elf64-x86-64
+
+
+cgbcon.o:     file format elf64-x86-64
+
+
+cgbequ.o:     file format elf64-x86-64
+
+
+cgbrfs.o:     file format elf64-x86-64
+
+
+cgbsv.o:     file format elf64-x86-64
+
+
+cgbsvx.o:     file format elf64-x86-64
+
+
+cgbtf2.o:     file format elf64-x86-64
+
+
+cgbtrf.o:     file format elf64-x86-64
+
+
+cgbtrs.o:     file format elf64-x86-64
+
+
+cgebak.o:     file format elf64-x86-64
+
+
+cgebal.o:     file format elf64-x86-64
+
+
+cgebd2.o:     file format elf64-x86-64
+
+
+cgebrd.o:     file format elf64-x86-64
+
+
+cgecon.o:     file format elf64-x86-64
+
+
+cgeequ.o:     file format elf64-x86-64
+
+
+cgees.o:     file format elf64-x86-64
+
+
+cgeesx.o:     file format elf64-x86-64
+
+
+cgeev.o:     file format elf64-x86-64
+
+
+cgeevx.o:     file format elf64-x86-64
+
+
+cgehd2.o:     file format elf64-x86-64
+
+
+cgehrd.o:     file format elf64-x86-64
+
+
+cgelq2.o:     file format elf64-x86-64
+
+
+cgelqf.o:     file format elf64-x86-64
+
+
+cgels.o:     file format elf64-x86-64
+
+
+cgelsd.o:     file format elf64-x86-64
+
+
+cgelss.o:     file format elf64-x86-64
+
+
+cgelsy.o:     file format elf64-x86-64
+
+
+cgeql2.o:     file format elf64-x86-64
+
+
+cgeqlf.o:     file format elf64-x86-64
+
+
+cgeqp3.o:     file format elf64-x86-64
+
+
+cgeqr2.o:     file format elf64-x86-64
+
+
+cgeqr2p.o:     file format elf64-x86-64
+
+
+cgeqrf.o:     file format elf64-x86-64
+
+
+cgeqrfp.o:     file format elf64-x86-64
+
+
+cgerfs.o:     file format elf64-x86-64
+
+
+cgerq2.o:     file format elf64-x86-64
+
+
+cgerqf.o:     file format elf64-x86-64
+
+
+cgesc2.o:     file format elf64-x86-64
+
+
+cgesdd.o:     file format elf64-x86-64
+
+
+cgesv.o:     file format elf64-x86-64
+
+
+cgesvd.o:     file format elf64-x86-64
+
+
+cgesvdx.o:     file format elf64-x86-64
+
+
+cgesvj.o:     file format elf64-x86-64
+
+
+cgejsv.o:     file format elf64-x86-64
+
+
+cgsvj0.o:     file format elf64-x86-64
+
+
+cgsvj1.o:     file format elf64-x86-64
+
+
+cgesvx.o:     file format elf64-x86-64
+
+
+cgetc2.o:     file format elf64-x86-64
+
+
+cgetf2.o:     file format elf64-x86-64
+
+
+cgetri.o:     file format elf64-x86-64
+
+
+cggbak.o:     file format elf64-x86-64
+
+
+cggbal.o:     file format elf64-x86-64
+
+
+cgges.o:     file format elf64-x86-64
+
+
+cgges3.o:     file format elf64-x86-64
+
+
+cggesx.o:     file format elf64-x86-64
+
+
+cggev.o:     file format elf64-x86-64
+
+
+cggev3.o:     file format elf64-x86-64
+
+
+cggevx.o:     file format elf64-x86-64
+
+
+cggglm.o:     file format elf64-x86-64
+
+
+cgghrd.o:     file format elf64-x86-64
+
+
+cgghd3.o:     file format elf64-x86-64
+
+
+cgglse.o:     file format elf64-x86-64
+
+
+cggqrf.o:     file format elf64-x86-64
+
+
+cggrqf.o:     file format elf64-x86-64
+
+
+cggsvd3.o:     file format elf64-x86-64
+
+
+cggsvp3.o:     file format elf64-x86-64
+
+
+cgtcon.o:     file format elf64-x86-64
+
+
+cgtrfs.o:     file format elf64-x86-64
+
+
+cgtsv.o:     file format elf64-x86-64
+
+
+cgtsvx.o:     file format elf64-x86-64
+
+
+cgttrf.o:     file format elf64-x86-64
+
+
+cgttrs.o:     file format elf64-x86-64
+
+
+cgtts2.o:     file format elf64-x86-64
+
+
+chbev.o:     file format elf64-x86-64
+
+
+chbevd.o:     file format elf64-x86-64
+
+
+chbevx.o:     file format elf64-x86-64
+
+
+chbgst.o:     file format elf64-x86-64
+
+
+chbgv.o:     file format elf64-x86-64
+
+
+chbgvd.o:     file format elf64-x86-64
+
+
+chbgvx.o:     file format elf64-x86-64
+
+
+chbtrd.o:     file format elf64-x86-64
+
+
+checon.o:     file format elf64-x86-64
+
+
+cheev.o:     file format elf64-x86-64
+
+
+cheevd.o:     file format elf64-x86-64
+
+
+cheevr.o:     file format elf64-x86-64
+
+
+cheevx.o:     file format elf64-x86-64
+
+
+chegs2.o:     file format elf64-x86-64
+
+
+chegst.o:     file format elf64-x86-64
+
+
+chegv.o:     file format elf64-x86-64
+
+
+chegvd.o:     file format elf64-x86-64
+
+
+chegvx.o:     file format elf64-x86-64
+
+
+cherfs.o:     file format elf64-x86-64
+
+
+chesv.o:     file format elf64-x86-64
+
+
+chesvx.o:     file format elf64-x86-64
+
+
+chetd2.o:     file format elf64-x86-64
+
+
+chetf2.o:     file format elf64-x86-64
+
+
+chetrd.o:     file format elf64-x86-64
+
+
+chetrf.o:     file format elf64-x86-64
+
+
+chetri.o:     file format elf64-x86-64
+
+
+chetri2.o:     file format elf64-x86-64
+
+
+chetri2x.o:     file format elf64-x86-64
+
+
+cheswapr.o:     file format elf64-x86-64
+
+
+chetrs.o:     file format elf64-x86-64
+
+
+chetrs2.o:     file format elf64-x86-64
+
+
+chetf2_rook.o:     file format elf64-x86-64
+
+
+chetrf_rook.o:     file format elf64-x86-64
+
+
+chetri_rook.o:     file format elf64-x86-64
+
+
+chetrs_rook.o:     file format elf64-x86-64
+
+
+checon_rook.o:     file format elf64-x86-64
+
+
+chesv_rook.o:     file format elf64-x86-64
+
+
+chetf2_rk.o:     file format elf64-x86-64
+
+
+chetrf_rk.o:     file format elf64-x86-64
+
+
+chetri_3.o:     file format elf64-x86-64
+
+
+chetri_3x.o:     file format elf64-x86-64
+
+
+chetrs_3.o:     file format elf64-x86-64
+
+
+checon_3.o:     file format elf64-x86-64
+
+
+chesv_rk.o:     file format elf64-x86-64
+
+
+chesv_aa.o:     file format elf64-x86-64
+
+
+chetrf_aa.o:     file format elf64-x86-64
+
+
+chetrs_aa.o:     file format elf64-x86-64
+
+
+clahef_aa.o:     file format elf64-x86-64
+
+
+chgeqz.o:     file format elf64-x86-64
+
+
+chpcon.o:     file format elf64-x86-64
+
+
+chpev.o:     file format elf64-x86-64
+
+
+chpevd.o:     file format elf64-x86-64
+
+
+chpevx.o:     file format elf64-x86-64
+
+
+chpgst.o:     file format elf64-x86-64
+
+
+chpgv.o:     file format elf64-x86-64
+
+
+chpgvd.o:     file format elf64-x86-64
+
+
+chpgvx.o:     file format elf64-x86-64
+
+
+chprfs.o:     file format elf64-x86-64
+
+
+chpsv.o:     file format elf64-x86-64
+
+
+chpsvx.o:     file format elf64-x86-64
+
+
+chptrd.o:     file format elf64-x86-64
+
+
+chptrf.o:     file format elf64-x86-64
+
+
+chptri.o:     file format elf64-x86-64
+
+
+chptrs.o:     file format elf64-x86-64
+
+
+chsein.o:     file format elf64-x86-64
+
+
+chseqr.o:     file format elf64-x86-64
+
+
+clabrd.o:     file format elf64-x86-64
+
+
+clacgv.o:     file format elf64-x86-64
+
+
+clacon.o:     file format elf64-x86-64
+
+
+clacn2.o:     file format elf64-x86-64
+
+
+clacp2.o:     file format elf64-x86-64
+
+
+clacpy.o:     file format elf64-x86-64
+
+
+clacrm.o:     file format elf64-x86-64
+
+
+clacrt.o:     file format elf64-x86-64
+
+
+cladiv.o:     file format elf64-x86-64
+
+
+claed0.o:     file format elf64-x86-64
+
+
+claed7.o:     file format elf64-x86-64
+
+
+claed8.o:     file format elf64-x86-64
+
+
+claein.o:     file format elf64-x86-64
+
+
+claesy.o:     file format elf64-x86-64
+
+
+claev2.o:     file format elf64-x86-64
+
+
+clags2.o:     file format elf64-x86-64
+
+
+clagtm.o:     file format elf64-x86-64
+
+
+clahef.o:     file format elf64-x86-64
+
+
+clahef_rook.o:     file format elf64-x86-64
+
+
+clahef_rk.o:     file format elf64-x86-64
+
+
+clahqr.o:     file format elf64-x86-64
+
+
+clahr2.o:     file format elf64-x86-64
+
+
+claic1.o:     file format elf64-x86-64
+
+
+clals0.o:     file format elf64-x86-64
+
+
+clalsa.o:     file format elf64-x86-64
+
+
+clalsd.o:     file format elf64-x86-64
+
+
+clangb.o:     file format elf64-x86-64
+
+
+clange.o:     file format elf64-x86-64
+
+
+clangt.o:     file format elf64-x86-64
+
+
+clanhb.o:     file format elf64-x86-64
+
+
+clanhe.o:     file format elf64-x86-64
+
+
+clanhp.o:     file format elf64-x86-64
+
+
+clanhs.o:     file format elf64-x86-64
+
+
+clanht.o:     file format elf64-x86-64
+
+
+clansb.o:     file format elf64-x86-64
+
+
+clansp.o:     file format elf64-x86-64
+
+
+clansy.o:     file format elf64-x86-64
+
+
+clantb.o:     file format elf64-x86-64
+
+
+clantp.o:     file format elf64-x86-64
+
+
+clantr.o:     file format elf64-x86-64
+
+
+clapll.o:     file format elf64-x86-64
+
+
+clapmt.o:     file format elf64-x86-64
+
+
+clarcm.o:     file format elf64-x86-64
+
+
+claqgb.o:     file format elf64-x86-64
+
+
+claqge.o:     file format elf64-x86-64
+
+
+claqhb.o:     file format elf64-x86-64
+
+
+claqhe.o:     file format elf64-x86-64
+
+
+claqhp.o:     file format elf64-x86-64
+
+
+claqp2.o:     file format elf64-x86-64
+
+
+claqps.o:     file format elf64-x86-64
+
+
+claqsb.o:     file format elf64-x86-64
+
+
+claqr0.o:     file format elf64-x86-64
+
+
+claqr1.o:     file format elf64-x86-64
+
+
+claqr2.o:     file format elf64-x86-64
+
+
+claqr3.o:     file format elf64-x86-64
+
+
+claqr4.o:     file format elf64-x86-64
+
+
+claqr5.o:     file format elf64-x86-64
+
+
+claqsp.o:     file format elf64-x86-64
+
+
+claqsy.o:     file format elf64-x86-64
+
+
+clar1v.o:     file format elf64-x86-64
+
+
+clar2v.o:     file format elf64-x86-64
+
+
+ilaclr.o:     file format elf64-x86-64
+
+
+ilaclc.o:     file format elf64-x86-64
+
+
+clarf.o:     file format elf64-x86-64
+
+
+clarfb.o:     file format elf64-x86-64
+
+
+clarfg.o:     file format elf64-x86-64
+
+
+clarft.o:     file format elf64-x86-64
+
+
+clarfgp.o:     file format elf64-x86-64
+
+
+clarfx.o:     file format elf64-x86-64
+
+
+clarfy.o:     file format elf64-x86-64
+
+
+clargv.o:     file format elf64-x86-64
+
+
+clarnv.o:     file format elf64-x86-64
+
+
+clarrv.o:     file format elf64-x86-64
+
+
+clartg.o:     file format elf64-x86-64
+
+
+clartv.o:     file format elf64-x86-64
+
+
+clarz.o:     file format elf64-x86-64
+
+
+clarzb.o:     file format elf64-x86-64
+
+
+clarzt.o:     file format elf64-x86-64
+
+
+clascl.o:     file format elf64-x86-64
+
+
+claset.o:     file format elf64-x86-64
+
+
+clasr.o:     file format elf64-x86-64
+
+
+classq.o:     file format elf64-x86-64
+
+
+claswp.o:     file format elf64-x86-64
+
+
+clasyf.o:     file format elf64-x86-64
+
+
+clasyf_rook.o:     file format elf64-x86-64
+
+
+clasyf_rk.o:     file format elf64-x86-64
+
+
+clasyf_aa.o:     file format elf64-x86-64
+
+
+clatbs.o:     file format elf64-x86-64
+
+
+clatdf.o:     file format elf64-x86-64
+
+
+clatps.o:     file format elf64-x86-64
+
+
+clatrd.o:     file format elf64-x86-64
+
+
+clatrs.o:     file format elf64-x86-64
+
+
+clatrz.o:     file format elf64-x86-64
+
+
+clauu2.o:     file format elf64-x86-64
+
+
+clauum.o:     file format elf64-x86-64
+
+
+cpbcon.o:     file format elf64-x86-64
+
+
+cpbequ.o:     file format elf64-x86-64
+
+
+cpbrfs.o:     file format elf64-x86-64
+
+
+cpbstf.o:     file format elf64-x86-64
+
+
+cpbsv.o:     file format elf64-x86-64
+
+
+cpbsvx.o:     file format elf64-x86-64
+
+
+cpbtf2.o:     file format elf64-x86-64
+
+
+cpbtrf.o:     file format elf64-x86-64
+
+
+cpbtrs.o:     file format elf64-x86-64
+
+
+cpocon.o:     file format elf64-x86-64
+
+
+cpoequ.o:     file format elf64-x86-64
+
+
+cporfs.o:     file format elf64-x86-64
+
+
+cposv.o:     file format elf64-x86-64
+
+
+cposvx.o:     file format elf64-x86-64
+
+
+cpotf2.o:     file format elf64-x86-64
+
+
+cpotri.o:     file format elf64-x86-64
+
+
+cpstrf.o:     file format elf64-x86-64
+
+
+cpstf2.o:     file format elf64-x86-64
+
+
+cppcon.o:     file format elf64-x86-64
+
+
+cppequ.o:     file format elf64-x86-64
+
+
+cpprfs.o:     file format elf64-x86-64
+
+
+cppsv.o:     file format elf64-x86-64
+
+
+cppsvx.o:     file format elf64-x86-64
+
+
+cpptrf.o:     file format elf64-x86-64
+
+
+cpptri.o:     file format elf64-x86-64
+
+
+cpptrs.o:     file format elf64-x86-64
+
+
+cptcon.o:     file format elf64-x86-64
+
+
+cpteqr.o:     file format elf64-x86-64
+
+
+cptrfs.o:     file format elf64-x86-64
+
+
+cptsv.o:     file format elf64-x86-64
+
+
+cptsvx.o:     file format elf64-x86-64
+
+
+cpttrf.o:     file format elf64-x86-64
+
+
+cpttrs.o:     file format elf64-x86-64
+
+
+cptts2.o:     file format elf64-x86-64
+
+
+crot.o:     file format elf64-x86-64
+
+
+cspcon.o:     file format elf64-x86-64
+
+
+cspmv.o:     file format elf64-x86-64
+
+
+cspr.o:     file format elf64-x86-64
+
+
+csprfs.o:     file format elf64-x86-64
+
+
+cspsv.o:     file format elf64-x86-64
+
+
+cspsvx.o:     file format elf64-x86-64
+
+
+csptrf.o:     file format elf64-x86-64
+
+
+csptri.o:     file format elf64-x86-64
+
+
+csptrs.o:     file format elf64-x86-64
+
+
+csrscl.o:     file format elf64-x86-64
+
+
+cstedc.o:     file format elf64-x86-64
+
+
+cstegr.o:     file format elf64-x86-64
+
+
+cstein.o:     file format elf64-x86-64
+
+
+csteqr.o:     file format elf64-x86-64
+
+
+csycon.o:     file format elf64-x86-64
+
+
+csymv.o:     file format elf64-x86-64
+
+
+csyr.o:     file format elf64-x86-64
+
+
+csyrfs.o:     file format elf64-x86-64
+
+
+csysv.o:     file format elf64-x86-64
+
+
+csysvx.o:     file format elf64-x86-64
+
+
+csytf2.o:     file format elf64-x86-64
+
+
+csytrf.o:     file format elf64-x86-64
+
+
+csytri.o:     file format elf64-x86-64
+
+
+csytri2.o:     file format elf64-x86-64
+
+
+csytri2x.o:     file format elf64-x86-64
+
+
+csyswapr.o:     file format elf64-x86-64
+
+
+csytrs.o:     file format elf64-x86-64
+
+
+csytrs2.o:     file format elf64-x86-64
+
+
+csyconv.o:     file format elf64-x86-64
+
+
+csyconvf.o:     file format elf64-x86-64
+
+
+csyconvf_rook.o:     file format elf64-x86-64
+
+
+csytf2_rook.o:     file format elf64-x86-64
+
+
+csytrf_rook.o:     file format elf64-x86-64
+
+
+csytrs_rook.o:     file format elf64-x86-64
+
+
+csytri_rook.o:     file format elf64-x86-64
+
+
+csycon_rook.o:     file format elf64-x86-64
+
+
+csysv_rook.o:     file format elf64-x86-64
+
+
+csytf2_rk.o:     file format elf64-x86-64
+
+
+csytrf_rk.o:     file format elf64-x86-64
+
+
+csytrf_aa.o:     file format elf64-x86-64
+
+
+csytrs_3.o:     file format elf64-x86-64
+
+
+csytrs_aa.o:     file format elf64-x86-64
+
+
+csytri_3.o:     file format elf64-x86-64
+
+
+csytri_3x.o:     file format elf64-x86-64
+
+
+csycon_3.o:     file format elf64-x86-64
+
+
+csysv_rk.o:     file format elf64-x86-64
+
+
+csysv_aa.o:     file format elf64-x86-64
+
+
+ctbcon.o:     file format elf64-x86-64
+
+
+ctbrfs.o:     file format elf64-x86-64
+
+
+ctbtrs.o:     file format elf64-x86-64
+
+
+ctgevc.o:     file format elf64-x86-64
+
+
+ctgex2.o:     file format elf64-x86-64
+
+
+ctgexc.o:     file format elf64-x86-64
+
+
+ctgsen.o:     file format elf64-x86-64
+
+
+ctgsja.o:     file format elf64-x86-64
+
+
+ctgsna.o:     file format elf64-x86-64
+
+
+ctgsy2.o:     file format elf64-x86-64
+
+
+ctgsyl.o:     file format elf64-x86-64
+
+
+ctpcon.o:     file format elf64-x86-64
+
+
+ctprfs.o:     file format elf64-x86-64
+
+
+ctptri.o:     file format elf64-x86-64
+
+
+ctptrs.o:     file format elf64-x86-64
+
+
+ctrcon.o:     file format elf64-x86-64
+
+
+ctrevc.o:     file format elf64-x86-64
+
+
+ctrevc3.o:     file format elf64-x86-64
+
+
+ctrexc.o:     file format elf64-x86-64
+
+
+ctrrfs.o:     file format elf64-x86-64
+
+
+ctrsen.o:     file format elf64-x86-64
+
+
+ctrsna.o:     file format elf64-x86-64
+
+
+ctrsyl.o:     file format elf64-x86-64
+
+
+ctrti2.o:     file format elf64-x86-64
+
+
+ctrtri.o:     file format elf64-x86-64
+
+
+ctrtrs.o:     file format elf64-x86-64
+
+
+ctzrzf.o:     file format elf64-x86-64
+
+
+cung2l.o:     file format elf64-x86-64
+
+
+cung2r.o:     file format elf64-x86-64
+
+
+cungbr.o:     file format elf64-x86-64
+
+
+cunghr.o:     file format elf64-x86-64
+
+
+cungl2.o:     file format elf64-x86-64
+
+
+cunglq.o:     file format elf64-x86-64
+
+
+cungql.o:     file format elf64-x86-64
+
+
+cungqr.o:     file format elf64-x86-64
+
+
+cungr2.o:     file format elf64-x86-64
+
+
+cungrq.o:     file format elf64-x86-64
+
+
+cungtr.o:     file format elf64-x86-64
+
+
+cunm2l.o:     file format elf64-x86-64
+
+
+cunm2r.o:     file format elf64-x86-64
+
+
+cunmbr.o:     file format elf64-x86-64
+
+
+cunmhr.o:     file format elf64-x86-64
+
+
+cunml2.o:     file format elf64-x86-64
+
+
+cunm22.o:     file format elf64-x86-64
+
+
+cunmlq.o:     file format elf64-x86-64
+
+
+cunmql.o:     file format elf64-x86-64
+
+
+cunmqr.o:     file format elf64-x86-64
+
+
+cunmr2.o:     file format elf64-x86-64
+
+
+cunmr3.o:     file format elf64-x86-64
+
+
+cunmrq.o:     file format elf64-x86-64
+
+
+cunmrz.o:     file format elf64-x86-64
+
+
+cunmtr.o:     file format elf64-x86-64
+
+
+cupgtr.o:     file format elf64-x86-64
+
+
+cupmtr.o:     file format elf64-x86-64
+
+
+icmax1.o:     file format elf64-x86-64
+
+
+scsum1.o:     file format elf64-x86-64
+
+
+cstemr.o:     file format elf64-x86-64
+
+
+chfrk.o:     file format elf64-x86-64
+
+
+ctfttp.o:     file format elf64-x86-64
+
+
+clanhf.o:     file format elf64-x86-64
+
+
+cpftrf.o:     file format elf64-x86-64
+
+
+cpftri.o:     file format elf64-x86-64
+
+
+cpftrs.o:     file format elf64-x86-64
+
+
+ctfsm.o:     file format elf64-x86-64
+
+
+ctftri.o:     file format elf64-x86-64
+
+
+ctfttr.o:     file format elf64-x86-64
+
+
+ctpttf.o:     file format elf64-x86-64
+
+
+ctpttr.o:     file format elf64-x86-64
+
+
+ctrttf.o:     file format elf64-x86-64
+
+
+ctrttp.o:     file format elf64-x86-64
+
+
+cgeequb.o:     file format elf64-x86-64
+
+
+cgbequb.o:     file format elf64-x86-64
+
+
+csyequb.o:     file format elf64-x86-64
+
+
+cpoequb.o:     file format elf64-x86-64
+
+
+cheequb.o:     file format elf64-x86-64
+
+
+cbbcsd.o:     file format elf64-x86-64
+
+
+clapmr.o:     file format elf64-x86-64
+
+
+cunbdb.o:     file format elf64-x86-64
+
+
+cunbdb1.o:     file format elf64-x86-64
+
+
+cunbdb2.o:     file format elf64-x86-64
+
+
+cunbdb3.o:     file format elf64-x86-64
+
+
+cunbdb4.o:     file format elf64-x86-64
+
+
+cunbdb5.o:     file format elf64-x86-64
+
+
+cunbdb6.o:     file format elf64-x86-64
+
+
+cuncsd.o:     file format elf64-x86-64
+
+
+cuncsd2by1.o:     file format elf64-x86-64
+
+
+cgeqrt.o:     file format elf64-x86-64
+
+
+cgeqrt2.o:     file format elf64-x86-64
+
+
+cgeqrt3.o:     file format elf64-x86-64
+
+
+cgemqrt.o:     file format elf64-x86-64
+
+
+ctpqrt.o:     file format elf64-x86-64
+
+
+ctpqrt2.o:     file format elf64-x86-64
+
+
+ctpmqrt.o:     file format elf64-x86-64
+
+
+ctprfb.o:     file format elf64-x86-64
+
+
+cgelqt.o:     file format elf64-x86-64
+
+
+cgelqt3.o:     file format elf64-x86-64
+
+
+cgemlqt.o:     file format elf64-x86-64
+
+
+cgetsls.o:     file format elf64-x86-64
+
+
+cgeqr.o:     file format elf64-x86-64
+
+
+clatsqr.o:     file format elf64-x86-64
+
+
+clamtsqr.o:     file format elf64-x86-64
+
+
+cgemqr.o:     file format elf64-x86-64
+
+
+cgelq.o:     file format elf64-x86-64
+
+
+claswlq.o:     file format elf64-x86-64
+
+
+clamswlq.o:     file format elf64-x86-64
+
+
+cgemlq.o:     file format elf64-x86-64
+
+
+ctplqt.o:     file format elf64-x86-64
+
+
+ctplqt2.o:     file format elf64-x86-64
+
+
+ctpmlqt.o:     file format elf64-x86-64
+
+
+chetrd_2stage.o:     file format elf64-x86-64
+
+
+chetrd_he2hb.o:     file format elf64-x86-64
+
+
+chetrd_hb2st.o:     file format elf64-x86-64
+
+
+chb2st_kernels.o:     file format elf64-x86-64
+
+
+cheevd_2stage.o:     file format elf64-x86-64
+
+
+cheev_2stage.o:     file format elf64-x86-64
+
+
+cheevx_2stage.o:     file format elf64-x86-64
+
+
+cheevr_2stage.o:     file format elf64-x86-64
+
+
+chbev_2stage.o:     file format elf64-x86-64
+
+
+chbevx_2stage.o:     file format elf64-x86-64
+
+
+chbevd_2stage.o:     file format elf64-x86-64
+
+
+chegv_2stage.o:     file format elf64-x86-64
+
+
+zpotrf2.o:     file format elf64-x86-64
+
+
+zgetrf2.o:     file format elf64-x86-64
+
+
+zbdsqr.o:     file format elf64-x86-64
+
+
+zgbbrd.o:     file format elf64-x86-64
+
+
+zgbcon.o:     file format elf64-x86-64
+
+
+zgbequ.o:     file format elf64-x86-64
+
+
+zgbrfs.o:     file format elf64-x86-64
+
+
+zgbsv.o:     file format elf64-x86-64
+
+
+zgbsvx.o:     file format elf64-x86-64
+
+
+zgbtf2.o:     file format elf64-x86-64
+
+
+zgbtrf.o:     file format elf64-x86-64
+
+
+zgbtrs.o:     file format elf64-x86-64
+
+
+zgebak.o:     file format elf64-x86-64
+
+
+zgebal.o:     file format elf64-x86-64
+
+
+zgebd2.o:     file format elf64-x86-64
+
+
+zgebrd.o:     file format elf64-x86-64
+
+
+zgecon.o:     file format elf64-x86-64
+
+
+zgeequ.o:     file format elf64-x86-64
+
+
+zgees.o:     file format elf64-x86-64
+
+
+zgeesx.o:     file format elf64-x86-64
+
+
+zgeev.o:     file format elf64-x86-64
+
+
+zgeevx.o:     file format elf64-x86-64
+
+
+zgehd2.o:     file format elf64-x86-64
+
+
+zgehrd.o:     file format elf64-x86-64
+
+
+zgelq2.o:     file format elf64-x86-64
+
+
+zgelqf.o:     file format elf64-x86-64
+
+
+zgels.o:     file format elf64-x86-64
+
+
+zgelsd.o:     file format elf64-x86-64
+
+
+zgelss.o:     file format elf64-x86-64
+
+
+zgelsy.o:     file format elf64-x86-64
+
+
+zgeql2.o:     file format elf64-x86-64
+
+
+zgeqlf.o:     file format elf64-x86-64
+
+
+zgeqp3.o:     file format elf64-x86-64
+
+
+zgeqr2.o:     file format elf64-x86-64
+
+
+zgeqr2p.o:     file format elf64-x86-64
+
+
+zgeqrf.o:     file format elf64-x86-64
+
+
+zgeqrfp.o:     file format elf64-x86-64
+
+
+zgerfs.o:     file format elf64-x86-64
+
+
+zgerq2.o:     file format elf64-x86-64
+
+
+zgerqf.o:     file format elf64-x86-64
+
+
+zgesc2.o:     file format elf64-x86-64
+
+
+zgesdd.o:     file format elf64-x86-64
+
+
+zgesv.o:     file format elf64-x86-64
+
+
+zgesvd.o:     file format elf64-x86-64
+
+
+zgesvdx.o:     file format elf64-x86-64
+
+
+zgesvj.o:     file format elf64-x86-64
+
+
+zgejsv.o:     file format elf64-x86-64
+
+
+zgsvj0.o:     file format elf64-x86-64
+
+
+zgsvj1.o:     file format elf64-x86-64
+
+
+zgesvx.o:     file format elf64-x86-64
+
+
+zgetc2.o:     file format elf64-x86-64
+
+
+zgetf2.o:     file format elf64-x86-64
+
+
+zgetrf.o:     file format elf64-x86-64
+
+
+zgetri.o:     file format elf64-x86-64
+
+
+zgetrs.o:     file format elf64-x86-64
+
+
+zggbak.o:     file format elf64-x86-64
+
+
+zggbal.o:     file format elf64-x86-64
+
+
+zgges.o:     file format elf64-x86-64
+
+
+zgges3.o:     file format elf64-x86-64
+
+
+zggesx.o:     file format elf64-x86-64
+
+
+zggev.o:     file format elf64-x86-64
+
+
+zggev3.o:     file format elf64-x86-64
+
+
+zggevx.o:     file format elf64-x86-64
+
+
+zggglm.o:     file format elf64-x86-64
+
+
+zgghrd.o:     file format elf64-x86-64
+
+
+zgghd3.o:     file format elf64-x86-64
+
+
+zgglse.o:     file format elf64-x86-64
+
+
+zggqrf.o:     file format elf64-x86-64
+
+
+zggrqf.o:     file format elf64-x86-64
+
+
+zggsvd3.o:     file format elf64-x86-64
+
+
+zggsvp3.o:     file format elf64-x86-64
+
+
+zgtcon.o:     file format elf64-x86-64
+
+
+zgtrfs.o:     file format elf64-x86-64
+
+
+zgtsv.o:     file format elf64-x86-64
+
+
+zgtsvx.o:     file format elf64-x86-64
+
+
+zgttrf.o:     file format elf64-x86-64
+
+
+zgttrs.o:     file format elf64-x86-64
+
+
+zgtts2.o:     file format elf64-x86-64
+
+
+zhbev.o:     file format elf64-x86-64
+
+
+zhbevd.o:     file format elf64-x86-64
+
+
+zhbevx.o:     file format elf64-x86-64
+
+
+zhbgst.o:     file format elf64-x86-64
+
+
+zhbgv.o:     file format elf64-x86-64
+
+
+zhbgvd.o:     file format elf64-x86-64
+
+
+zhbgvx.o:     file format elf64-x86-64
+
+
+zhbtrd.o:     file format elf64-x86-64
+
+
+zhecon.o:     file format elf64-x86-64
+
+
+zheev.o:     file format elf64-x86-64
+
+
+zheevd.o:     file format elf64-x86-64
+
+
+zheevr.o:     file format elf64-x86-64
+
+
+zheevx.o:     file format elf64-x86-64
+
+
+zhegs2.o:     file format elf64-x86-64
+
+
+zhegst.o:     file format elf64-x86-64
+
+
+zhegv.o:     file format elf64-x86-64
+
+
+zhegvd.o:     file format elf64-x86-64
+
+
+zhegvx.o:     file format elf64-x86-64
+
+
+zherfs.o:     file format elf64-x86-64
+
+
+zhesv.o:     file format elf64-x86-64
+
+
+zhesvx.o:     file format elf64-x86-64
+
+
+zhetd2.o:     file format elf64-x86-64
+
+
+zhetf2.o:     file format elf64-x86-64
+
+
+zhetrd.o:     file format elf64-x86-64
+
+
+zhetrf.o:     file format elf64-x86-64
+
+
+zhetri.o:     file format elf64-x86-64
+
+
+zhetri2.o:     file format elf64-x86-64
+
+
+zhetri2x.o:     file format elf64-x86-64
+
+
+zheswapr.o:     file format elf64-x86-64
+
+
+zhetrs.o:     file format elf64-x86-64
+
+
+zhetrs2.o:     file format elf64-x86-64
+
+
+zhetf2_rook.o:     file format elf64-x86-64
+
+
+zhetrf_rook.o:     file format elf64-x86-64
+
+
+zhetri_rook.o:     file format elf64-x86-64
+
+
+zhetrs_rook.o:     file format elf64-x86-64
+
+
+zhecon_rook.o:     file format elf64-x86-64
+
+
+zhesv_rook.o:     file format elf64-x86-64
+
+
+zhetf2_rk.o:     file format elf64-x86-64
+
+
+zhetrf_rk.o:     file format elf64-x86-64
+
+
+zhetri_3.o:     file format elf64-x86-64
+
+
+zhetri_3x.o:     file format elf64-x86-64
+
+
+zhetrs_3.o:     file format elf64-x86-64
+
+
+zhecon_3.o:     file format elf64-x86-64
+
+
+zhesv_rk.o:     file format elf64-x86-64
+
+
+zhesv_aa.o:     file format elf64-x86-64
+
+
+zhetrf_aa.o:     file format elf64-x86-64
+
+
+zhetrs_aa.o:     file format elf64-x86-64
+
+
+zlahef_aa.o:     file format elf64-x86-64
+
+
+zhgeqz.o:     file format elf64-x86-64
+
+
+zhpcon.o:     file format elf64-x86-64
+
+
+zhpev.o:     file format elf64-x86-64
+
+
+zhpevd.o:     file format elf64-x86-64
+
+
+zhpevx.o:     file format elf64-x86-64
+
+
+zhpgst.o:     file format elf64-x86-64
+
+
+zhpgv.o:     file format elf64-x86-64
+
+
+zhpgvd.o:     file format elf64-x86-64
+
+
+zhpgvx.o:     file format elf64-x86-64
+
+
+zhprfs.o:     file format elf64-x86-64
+
+
+zhpsv.o:     file format elf64-x86-64
+
+
+zhpsvx.o:     file format elf64-x86-64
+
+
+zhptrd.o:     file format elf64-x86-64
+
+
+zhptrf.o:     file format elf64-x86-64
+
+
+zhptri.o:     file format elf64-x86-64
+
+
+zhptrs.o:     file format elf64-x86-64
+
+
+zhsein.o:     file format elf64-x86-64
+
+
+zhseqr.o:     file format elf64-x86-64
+
+
+zlabrd.o:     file format elf64-x86-64
+
+
+zlacgv.o:     file format elf64-x86-64
+
+
+zlacon.o:     file format elf64-x86-64
+
+
+zlacn2.o:     file format elf64-x86-64
+
+
+zlacp2.o:     file format elf64-x86-64
+
+
+zlacpy.o:     file format elf64-x86-64
+
+
+zlacrm.o:     file format elf64-x86-64
+
+
+zlacrt.o:     file format elf64-x86-64
+
+
+zladiv.o:     file format elf64-x86-64
+
+
+zlaed0.o:     file format elf64-x86-64
+
+
+zlaed7.o:     file format elf64-x86-64
+
+
+zlaed8.o:     file format elf64-x86-64
+
+
+zlaein.o:     file format elf64-x86-64
+
+
+zlaesy.o:     file format elf64-x86-64
+
+
+zlaev2.o:     file format elf64-x86-64
+
+
+zlags2.o:     file format elf64-x86-64
+
+
+zlagtm.o:     file format elf64-x86-64
+
+
+zlahef.o:     file format elf64-x86-64
+
+
+zlahef_rook.o:     file format elf64-x86-64
+
+
+zlahef_rk.o:     file format elf64-x86-64
+
+
+zlahqr.o:     file format elf64-x86-64
+
+
+zlahr2.o:     file format elf64-x86-64
+
+
+zlaic1.o:     file format elf64-x86-64
+
+
+zlals0.o:     file format elf64-x86-64
+
+
+zlalsa.o:     file format elf64-x86-64
+
+
+zlalsd.o:     file format elf64-x86-64
+
+
+zlangb.o:     file format elf64-x86-64
+
+
+zlange.o:     file format elf64-x86-64
+
+
+zlangt.o:     file format elf64-x86-64
+
+
+zlanhb.o:     file format elf64-x86-64
+
+
+zlanhe.o:     file format elf64-x86-64
+
+
+zlanhp.o:     file format elf64-x86-64
+
+
+zlanhs.o:     file format elf64-x86-64
+
+
+zlanht.o:     file format elf64-x86-64
+
+
+zlansb.o:     file format elf64-x86-64
+
+
+zlansp.o:     file format elf64-x86-64
+
+
+zlansy.o:     file format elf64-x86-64
+
+
+zlantb.o:     file format elf64-x86-64
+
+
+zlantp.o:     file format elf64-x86-64
+
+
+zlantr.o:     file format elf64-x86-64
+
+
+zlapll.o:     file format elf64-x86-64
+
+
+zlapmt.o:     file format elf64-x86-64
+
+
+zlaqgb.o:     file format elf64-x86-64
+
+
+zlaqge.o:     file format elf64-x86-64
+
+
+zlaqhb.o:     file format elf64-x86-64
+
+
+zlaqhe.o:     file format elf64-x86-64
+
+
+zlaqhp.o:     file format elf64-x86-64
+
+
+zlaqp2.o:     file format elf64-x86-64
+
+
+zlaqps.o:     file format elf64-x86-64
+
+
+zlaqsb.o:     file format elf64-x86-64
+
+
+zlaqr0.o:     file format elf64-x86-64
+
+
+zlaqr1.o:     file format elf64-x86-64
+
+
+zlaqr2.o:     file format elf64-x86-64
+
+
+zlaqr3.o:     file format elf64-x86-64
+
+
+zlaqr4.o:     file format elf64-x86-64
+
+
+zlaqr5.o:     file format elf64-x86-64
+
+
+zlaqsp.o:     file format elf64-x86-64
+
+
+zlaqsy.o:     file format elf64-x86-64
+
+
+zlar1v.o:     file format elf64-x86-64
+
+
+zlar2v.o:     file format elf64-x86-64
+
+
+ilazlr.o:     file format elf64-x86-64
+
+
+ilazlc.o:     file format elf64-x86-64
+
+
+zlarcm.o:     file format elf64-x86-64
+
+
+zlarf.o:     file format elf64-x86-64
+
+
+zlarfb.o:     file format elf64-x86-64
+
+
+zlarfg.o:     file format elf64-x86-64
+
+
+zlarft.o:     file format elf64-x86-64
+
+
+zlarfgp.o:     file format elf64-x86-64
+
+
+zlarfx.o:     file format elf64-x86-64
+
+
+zlarfy.o:     file format elf64-x86-64
+
+
+zlargv.o:     file format elf64-x86-64
+
+
+zlarnv.o:     file format elf64-x86-64
+
+
+zlarrv.o:     file format elf64-x86-64
+
+
+zlartg.o:     file format elf64-x86-64
+
+
+zlartv.o:     file format elf64-x86-64
+
+
+zlarz.o:     file format elf64-x86-64
+
+
+zlarzb.o:     file format elf64-x86-64
+
+
+zlarzt.o:     file format elf64-x86-64
+
+
+zlascl.o:     file format elf64-x86-64
+
+
+zlaset.o:     file format elf64-x86-64
+
+
+zlasr.o:     file format elf64-x86-64
+
+
+zlassq.o:     file format elf64-x86-64
+
+
+zlaswp.o:     file format elf64-x86-64
+
+
+zlasyf.o:     file format elf64-x86-64
+
+
+zlasyf_rook.o:     file format elf64-x86-64
+
+
+zlasyf_rk.o:     file format elf64-x86-64
+
+
+zlasyf_aa.o:     file format elf64-x86-64
+
+
+zlatbs.o:     file format elf64-x86-64
+
+
+zlatdf.o:     file format elf64-x86-64
+
+
+zlatps.o:     file format elf64-x86-64
+
+
+zlatrd.o:     file format elf64-x86-64
+
+
+zlatrs.o:     file format elf64-x86-64
+
+
+zlatrz.o:     file format elf64-x86-64
+
+
+zlauu2.o:     file format elf64-x86-64
+
+
+zlauum.o:     file format elf64-x86-64
+
+
+zpbcon.o:     file format elf64-x86-64
+
+
+zpbequ.o:     file format elf64-x86-64
+
+
+zpbrfs.o:     file format elf64-x86-64
+
+
+zpbstf.o:     file format elf64-x86-64
+
+
+zpbsv.o:     file format elf64-x86-64
+
+
+zpbsvx.o:     file format elf64-x86-64
+
+
+zpbtf2.o:     file format elf64-x86-64
+
+
+zpbtrf.o:     file format elf64-x86-64
+
+
+zpbtrs.o:     file format elf64-x86-64
+
+
+zpocon.o:     file format elf64-x86-64
+
+
+zpoequ.o:     file format elf64-x86-64
+
+
+zporfs.o:     file format elf64-x86-64
+
+
+zposv.o:     file format elf64-x86-64
+
+
+zposvx.o:     file format elf64-x86-64
+
+
+zpotf2.o:     file format elf64-x86-64
+
+
+zpotrf.o:     file format elf64-x86-64
+
+
+zpotri.o:     file format elf64-x86-64
+
+
+zpotrs.o:     file format elf64-x86-64
+
+
+zpstrf.o:     file format elf64-x86-64
+
+
+zpstf2.o:     file format elf64-x86-64
+
+
+zppcon.o:     file format elf64-x86-64
+
+
+zppequ.o:     file format elf64-x86-64
+
+
+zpprfs.o:     file format elf64-x86-64
+
+
+zppsv.o:     file format elf64-x86-64
+
+
+zppsvx.o:     file format elf64-x86-64
+
+
+zpptrf.o:     file format elf64-x86-64
+
+
+zpptri.o:     file format elf64-x86-64
+
+
+zpptrs.o:     file format elf64-x86-64
+
+
+zptcon.o:     file format elf64-x86-64
+
+
+zpteqr.o:     file format elf64-x86-64
+
+
+zptrfs.o:     file format elf64-x86-64
+
+
+zptsv.o:     file format elf64-x86-64
+
+
+zptsvx.o:     file format elf64-x86-64
+
+
+zpttrf.o:     file format elf64-x86-64
+
+
+zpttrs.o:     file format elf64-x86-64
+
+
+zptts2.o:     file format elf64-x86-64
+
+
+zrot.o:     file format elf64-x86-64
+
+
+zspcon.o:     file format elf64-x86-64
+
+
+zspmv.o:     file format elf64-x86-64
+
+
+zspr.o:     file format elf64-x86-64
+
+
+zsprfs.o:     file format elf64-x86-64
+
+
+zspsv.o:     file format elf64-x86-64
+
+
+zspsvx.o:     file format elf64-x86-64
+
+
+zsptrf.o:     file format elf64-x86-64
+
+
+zsptri.o:     file format elf64-x86-64
+
+
+zsptrs.o:     file format elf64-x86-64
+
+
+zdrscl.o:     file format elf64-x86-64
+
+
+zstedc.o:     file format elf64-x86-64
+
+
+zstegr.o:     file format elf64-x86-64
+
+
+zstein.o:     file format elf64-x86-64
+
+
+zsteqr.o:     file format elf64-x86-64
+
+
+zsycon.o:     file format elf64-x86-64
+
+
+zsymv.o:     file format elf64-x86-64
+
+
+zsyr.o:     file format elf64-x86-64
+
+
+zsyrfs.o:     file format elf64-x86-64
+
+
+zsysv.o:     file format elf64-x86-64
+
+
+zsysvx.o:     file format elf64-x86-64
+
+
+zsytf2.o:     file format elf64-x86-64
+
+
+zsytrf.o:     file format elf64-x86-64
+
+
+zsytri.o:     file format elf64-x86-64
+
+
+zsytri2.o:     file format elf64-x86-64
+
+
+zsytri2x.o:     file format elf64-x86-64
+
+
+zsyswapr.o:     file format elf64-x86-64
+
+
+zsytrs.o:     file format elf64-x86-64
+
+
+zsytrs2.o:     file format elf64-x86-64
+
+
+zsyconv.o:     file format elf64-x86-64
+
+
+zsyconvf.o:     file format elf64-x86-64
+
+
+zsyconvf_rook.o:     file format elf64-x86-64
+
+
+zsytf2_rook.o:     file format elf64-x86-64
+
+
+zsytrf_rook.o:     file format elf64-x86-64
+
+
+zsytrs_rook.o:     file format elf64-x86-64
+
+
+zsytrs_aa.o:     file format elf64-x86-64
+
+
+zsytri_rook.o:     file format elf64-x86-64
+
+
+zsycon_rook.o:     file format elf64-x86-64
+
+
+zsysv_rook.o:     file format elf64-x86-64
+
+
+zsytf2_rk.o:     file format elf64-x86-64
+
+
+zsytrf_rk.o:     file format elf64-x86-64
+
+
+zsytrf_aa.o:     file format elf64-x86-64
+
+
+zsytrs_3.o:     file format elf64-x86-64
+
+
+zsytri_3.o:     file format elf64-x86-64
+
+
+zsytri_3x.o:     file format elf64-x86-64
+
+
+zsycon_3.o:     file format elf64-x86-64
+
+
+zsysv_rk.o:     file format elf64-x86-64
+
+
+zsysv_aa.o:     file format elf64-x86-64
+
+
+ztbcon.o:     file format elf64-x86-64
+
+
+ztbrfs.o:     file format elf64-x86-64
+
+
+ztbtrs.o:     file format elf64-x86-64
+
+
+ztgevc.o:     file format elf64-x86-64
+
+
+ztgex2.o:     file format elf64-x86-64
+
+
+ztgexc.o:     file format elf64-x86-64
+
+
+ztgsen.o:     file format elf64-x86-64
+
+
+ztgsja.o:     file format elf64-x86-64
+
+
+ztgsna.o:     file format elf64-x86-64
+
+
+ztgsy2.o:     file format elf64-x86-64
+
+
+ztgsyl.o:     file format elf64-x86-64
+
+
+ztpcon.o:     file format elf64-x86-64
+
+
+ztprfs.o:     file format elf64-x86-64
+
+
+ztptri.o:     file format elf64-x86-64
+
+
+ztptrs.o:     file format elf64-x86-64
+
+
+ztrcon.o:     file format elf64-x86-64
+
+
+ztrevc.o:     file format elf64-x86-64
+
+
+ztrevc3.o:     file format elf64-x86-64
+
+
+ztrexc.o:     file format elf64-x86-64
+
+
+ztrrfs.o:     file format elf64-x86-64
+
+
+ztrsen.o:     file format elf64-x86-64
+
+
+ztrsna.o:     file format elf64-x86-64
+
+
+ztrsyl.o:     file format elf64-x86-64
+
+
+ztrti2.o:     file format elf64-x86-64
+
+
+ztrtri.o:     file format elf64-x86-64
+
+
+ztrtrs.o:     file format elf64-x86-64
+
+
+ztzrzf.o:     file format elf64-x86-64
+
+
+zung2l.o:     file format elf64-x86-64
+
+
+zung2r.o:     file format elf64-x86-64
+
+
+zungbr.o:     file format elf64-x86-64
+
+
+zunghr.o:     file format elf64-x86-64
+
+
+zungl2.o:     file format elf64-x86-64
+
+
+zunglq.o:     file format elf64-x86-64
+
+
+zungql.o:     file format elf64-x86-64
+
+
+zungqr.o:     file format elf64-x86-64
+
+
+zungr2.o:     file format elf64-x86-64
+
+
+zungrq.o:     file format elf64-x86-64
+
+
+zungtr.o:     file format elf64-x86-64
+
+
+zunm2l.o:     file format elf64-x86-64
+
+
+zunm2r.o:     file format elf64-x86-64
+
+
+zunmbr.o:     file format elf64-x86-64
+
+
+zunmhr.o:     file format elf64-x86-64
+
+
+zunml2.o:     file format elf64-x86-64
+
+
+zunm22.o:     file format elf64-x86-64
+
+
+zunmlq.o:     file format elf64-x86-64
+
+
+zunmql.o:     file format elf64-x86-64
+
+
+zunmqr.o:     file format elf64-x86-64
+
+
+zunmr2.o:     file format elf64-x86-64
+
+
+zunmr3.o:     file format elf64-x86-64
+
+
+zunmrq.o:     file format elf64-x86-64
+
+
+zunmrz.o:     file format elf64-x86-64
+
+
+zunmtr.o:     file format elf64-x86-64
+
+
+zupgtr.o:     file format elf64-x86-64
+
+
+zupmtr.o:     file format elf64-x86-64
+
+
+izmax1.o:     file format elf64-x86-64
+
+
+dzsum1.o:     file format elf64-x86-64
+
+
+zstemr.o:     file format elf64-x86-64
+
+
+zcgesv.o:     file format elf64-x86-64
+
+
+zcposv.o:     file format elf64-x86-64
+
+
+zlag2c.o:     file format elf64-x86-64
+
+
+clag2z.o:     file format elf64-x86-64
+
+
+zlat2c.o:     file format elf64-x86-64
+
+
+zhfrk.o:     file format elf64-x86-64
+
+
+ztfttp.o:     file format elf64-x86-64
+
+
+zlanhf.o:     file format elf64-x86-64
+
+
+zpftrf.o:     file format elf64-x86-64
+
+
+zpftri.o:     file format elf64-x86-64
+
+
+zpftrs.o:     file format elf64-x86-64
+
+
+ztfsm.o:     file format elf64-x86-64
+
+
+ztftri.o:     file format elf64-x86-64
+
+
+ztfttr.o:     file format elf64-x86-64
+
+
+ztpttf.o:     file format elf64-x86-64
+
+
+ztpttr.o:     file format elf64-x86-64
+
+
+ztrttf.o:     file format elf64-x86-64
+
+
+ztrttp.o:     file format elf64-x86-64
+
+
+zgeequb.o:     file format elf64-x86-64
+
+
+zgbequb.o:     file format elf64-x86-64
+
+
+zsyequb.o:     file format elf64-x86-64
+
+
+zpoequb.o:     file format elf64-x86-64
+
+
+zheequb.o:     file format elf64-x86-64
+
+
+zbbcsd.o:     file format elf64-x86-64
+
+
+zlapmr.o:     file format elf64-x86-64
+
+
+zunbdb.o:     file format elf64-x86-64
+
+
+zunbdb1.o:     file format elf64-x86-64
+
+
+zunbdb2.o:     file format elf64-x86-64
+
+
+zunbdb3.o:     file format elf64-x86-64
+
+
+zunbdb4.o:     file format elf64-x86-64
+
+
+zunbdb5.o:     file format elf64-x86-64
+
+
+zunbdb6.o:     file format elf64-x86-64
+
+
+zuncsd.o:     file format elf64-x86-64
+
+
+zuncsd2by1.o:     file format elf64-x86-64
+
+
+zgeqrt.o:     file format elf64-x86-64
+
+
+zgeqrt2.o:     file format elf64-x86-64
+
+
+zgeqrt3.o:     file format elf64-x86-64
+
+
+zgemqrt.o:     file format elf64-x86-64
+
+
+ztpqrt.o:     file format elf64-x86-64
+
+
+ztpqrt2.o:     file format elf64-x86-64
+
+
+ztpmqrt.o:     file format elf64-x86-64
+
+
+ztprfb.o:     file format elf64-x86-64
+
+
+ztplqt.o:     file format elf64-x86-64
+
+
+ztplqt2.o:     file format elf64-x86-64
+
+
+ztpmlqt.o:     file format elf64-x86-64
+
+
+zgelqt.o:     file format elf64-x86-64
+
+
+zgelqt3.o:     file format elf64-x86-64
+
+
+zgemlqt.o:     file format elf64-x86-64
+
+
+zgetsls.o:     file format elf64-x86-64
+
+
+zgeqr.o:     file format elf64-x86-64
+
+
+zlatsqr.o:     file format elf64-x86-64
+
+
+zlamtsqr.o:     file format elf64-x86-64
+
+
+zgemqr.o:     file format elf64-x86-64
+
+
+zgelq.o:     file format elf64-x86-64
+
+
+zlaswlq.o:     file format elf64-x86-64
+
+
+zlamswlq.o:     file format elf64-x86-64
+
+
+zgemlq.o:     file format elf64-x86-64
+
+
+zhetrd_2stage.o:     file format elf64-x86-64
+
+
+zhetrd_he2hb.o:     file format elf64-x86-64
+
+
+zhetrd_hb2st.o:     file format elf64-x86-64
+
+
+zhb2st_kernels.o:     file format elf64-x86-64
+
+
+zheevd_2stage.o:     file format elf64-x86-64
+
+
+zheev_2stage.o:     file format elf64-x86-64
+
+
+zheevx_2stage.o:     file format elf64-x86-64
+
+
+zheevr_2stage.o:     file format elf64-x86-64
+
+
+zhbev_2stage.o:     file format elf64-x86-64
+
+
+zhbevx_2stage.o:     file format elf64-x86-64
+
+
+zhbevd_2stage.o:     file format elf64-x86-64
+
+
+zhegv_2stage.o:     file format elf64-x86-64
+
+
+cpotrs.o:     file format elf64-x86-64
+
+
+cgetrs.o:     file format elf64-x86-64
+
+
+cpotrf.o:     file format elf64-x86-64
+
+
+cgetrf.o:     file format elf64-x86-64
+
+
+sbdsdc.o:     file format elf64-x86-64
+
+
+sbdsqr.o:     file format elf64-x86-64
+
+
+sdisna.o:     file format elf64-x86-64
+
+
+slabad.o:     file format elf64-x86-64
+
+
+slacpy.o:     file format elf64-x86-64
+
+
+sladiv.o:     file format elf64-x86-64
+
+
+slae2.o:     file format elf64-x86-64
+
+
+slaebz.o:     file format elf64-x86-64
+
+
+slaed0.o:     file format elf64-x86-64
+
+
+slaed1.o:     file format elf64-x86-64
+
+
+slaed2.o:     file format elf64-x86-64
+
+
+slaed3.o:     file format elf64-x86-64
+
+
+slaed4.o:     file format elf64-x86-64
+
+
+slaed5.o:     file format elf64-x86-64
+
+
+slaed6.o:     file format elf64-x86-64
+
+
+slaed7.o:     file format elf64-x86-64
+
+
+slaed8.o:     file format elf64-x86-64
+
+
+slaed9.o:     file format elf64-x86-64
+
+
+slaeda.o:     file format elf64-x86-64
+
+
+slaev2.o:     file format elf64-x86-64
+
+
+slagtf.o:     file format elf64-x86-64
+
+
+slagts.o:     file format elf64-x86-64
+
+
+slamrg.o:     file format elf64-x86-64
+
+
+slanst.o:     file format elf64-x86-64
+
+
+slapy2.o:     file format elf64-x86-64
+
+
+slapy3.o:     file format elf64-x86-64
+
+
+slarnv.o:     file format elf64-x86-64
+
+
+slarra.o:     file format elf64-x86-64
+
+
+slarrb.o:     file format elf64-x86-64
+
+
+slarrc.o:     file format elf64-x86-64
+
+
+slarrd.o:     file format elf64-x86-64
+
+
+slarre.o:     file format elf64-x86-64
+
+
+slarrf.o:     file format elf64-x86-64
+
+
+slarrj.o:     file format elf64-x86-64
+
+
+slarrk.o:     file format elf64-x86-64
+
+
+slarrr.o:     file format elf64-x86-64
+
+
+slaneg.o:     file format elf64-x86-64
+
+
+slartg.o:     file format elf64-x86-64
+
+
+slaruv.o:     file format elf64-x86-64
+
+
+slas2.o:     file format elf64-x86-64
+
+
+slascl.o:     file format elf64-x86-64
+
+
+slasd0.o:     file format elf64-x86-64
+
+
+slasd1.o:     file format elf64-x86-64
+
+
+slasd2.o:     file format elf64-x86-64
+
+
+slasd3.o:     file format elf64-x86-64
+
+
+slasd4.o:     file format elf64-x86-64
+
+
+slasd5.o:     file format elf64-x86-64
+
+
+slasd6.o:     file format elf64-x86-64
+
+
+slasd7.o:     file format elf64-x86-64
+
+
+slasd8.o:     file format elf64-x86-64
+
+
+slasda.o:     file format elf64-x86-64
+
+
+slasdq.o:     file format elf64-x86-64
+
+
+slasdt.o:     file format elf64-x86-64
+
+
+slaset.o:     file format elf64-x86-64
+
+
+slasq1.o:     file format elf64-x86-64
+
+
+slasq2.o:     file format elf64-x86-64
+
+
+slasq3.o:     file format elf64-x86-64
+
+
+slasq4.o:     file format elf64-x86-64
+
+
+slasq5.o:     file format elf64-x86-64
+
+
+slasq6.o:     file format elf64-x86-64
+
+
+slasr.o:     file format elf64-x86-64
+
+
+slasrt.o:     file format elf64-x86-64
+
+
+slassq.o:     file format elf64-x86-64
+
+
+slasv2.o:     file format elf64-x86-64
+
+
+spttrf.o:     file format elf64-x86-64
+
+
+sstebz.o:     file format elf64-x86-64
+
+
+sstedc.o:     file format elf64-x86-64
+
+
+ssteqr.o:     file format elf64-x86-64
+
+
+ssterf.o:     file format elf64-x86-64
+
+
+slaisnan.o:     file format elf64-x86-64
+
+
+sisnan.o:     file format elf64-x86-64
+
+
+slartgp.o:     file format elf64-x86-64
+
+
+slartgs.o:     file format elf64-x86-64
+
+
+second_INT_ETIME.o:     file format elf64-x86-64
+
+
+dbdsdc.o:     file format elf64-x86-64
+
+
+dbdsqr.o:     file format elf64-x86-64
+
+
+ddisna.o:     file format elf64-x86-64
+
+
+dlabad.o:     file format elf64-x86-64
+
+
+dlacpy.o:     file format elf64-x86-64
+
+
+dladiv.o:     file format elf64-x86-64
+
+
+dlae2.o:     file format elf64-x86-64
+
+
+dlaebz.o:     file format elf64-x86-64
+
+
+dlaed0.o:     file format elf64-x86-64
+
+
+dlaed1.o:     file format elf64-x86-64
+
+
+dlaed2.o:     file format elf64-x86-64
+
+
+dlaed3.o:     file format elf64-x86-64
+
+
+dlaed4.o:     file format elf64-x86-64
+
+
+dlaed5.o:     file format elf64-x86-64
+
+
+dlaed6.o:     file format elf64-x86-64
+
+
+dlaed7.o:     file format elf64-x86-64
+
+
+dlaed8.o:     file format elf64-x86-64
+
+
+dlaed9.o:     file format elf64-x86-64
+
+
+dlaeda.o:     file format elf64-x86-64
+
+
+dlaev2.o:     file format elf64-x86-64
+
+
+dlagtf.o:     file format elf64-x86-64
+
+
+dlagts.o:     file format elf64-x86-64
+
+
+dlamrg.o:     file format elf64-x86-64
+
+
+dlanst.o:     file format elf64-x86-64
+
+
+dlapy2.o:     file format elf64-x86-64
+
+
+dlapy3.o:     file format elf64-x86-64
+
+
+dlarnv.o:     file format elf64-x86-64
+
+
+dlarra.o:     file format elf64-x86-64
+
+
+dlarrb.o:     file format elf64-x86-64
+
+
+dlarrc.o:     file format elf64-x86-64
+
+
+dlarrd.o:     file format elf64-x86-64
+
+
+dlarre.o:     file format elf64-x86-64
+
+
+dlarrf.o:     file format elf64-x86-64
+
+
+dlarrj.o:     file format elf64-x86-64
+
+
+dlarrk.o:     file format elf64-x86-64
+
+
+dlarrr.o:     file format elf64-x86-64
+
+
+dlaneg.o:     file format elf64-x86-64
+
+
+dlartg.o:     file format elf64-x86-64
+
+
+dlaruv.o:     file format elf64-x86-64
+
+
+dlas2.o:     file format elf64-x86-64
+
+
+dlascl.o:     file format elf64-x86-64
+
+
+dlasd0.o:     file format elf64-x86-64
+
+
+dlasd1.o:     file format elf64-x86-64
+
+
+dlasd2.o:     file format elf64-x86-64
+
+
+dlasd3.o:     file format elf64-x86-64
+
+
+dlasd4.o:     file format elf64-x86-64
+
+
+dlasd5.o:     file format elf64-x86-64
+
+
+dlasd6.o:     file format elf64-x86-64
+
+
+dlasd7.o:     file format elf64-x86-64
+
+
+dlasd8.o:     file format elf64-x86-64
+
+
+dlasda.o:     file format elf64-x86-64
+
+
+dlasdq.o:     file format elf64-x86-64
+
+
+dlasdt.o:     file format elf64-x86-64
+
+
+dlaset.o:     file format elf64-x86-64
+
+
+dlasq1.o:     file format elf64-x86-64
+
+
+dlasq2.o:     file format elf64-x86-64
+
+
+dlasq3.o:     file format elf64-x86-64
+
+
+dlasq4.o:     file format elf64-x86-64
+
+
+dlasq5.o:     file format elf64-x86-64
+
+
+dlasq6.o:     file format elf64-x86-64
+
+
+dlasr.o:     file format elf64-x86-64
+
+
+dlasrt.o:     file format elf64-x86-64
+
+
+dlassq.o:     file format elf64-x86-64
+
+
+dlasv2.o:     file format elf64-x86-64
+
+
+dpttrf.o:     file format elf64-x86-64
+
+
+dstebz.o:     file format elf64-x86-64
+
+
+dstedc.o:     file format elf64-x86-64
+
+
+dsteqr.o:     file format elf64-x86-64
+
+
+dsterf.o:     file format elf64-x86-64
+
+
+dlaisnan.o:     file format elf64-x86-64
+
+
+disnan.o:     file format elf64-x86-64
+
+
+dlartgp.o:     file format elf64-x86-64
+
+
+dlartgs.o:     file format elf64-x86-64
+
+
+dlamch.o:     file format elf64-x86-64
+
+
+dsecnd_INT_ETIME.o:     file format elf64-x86-64
+
+
+ilaenv.o:     file format elf64-x86-64
+
+
+ieeeck.o:     file format elf64-x86-64
+
+
+lsamen.o:     file format elf64-x86-64
+
+
+xerbla.o:     file format elf64-x86-64
+
+
+xerbla_array.o:     file format elf64-x86-64
+
+
+iparmq.o:     file format elf64-x86-64
+
+
+iparam2stage.o:     file format elf64-x86-64
+
+
+ilaprec.o:     file format elf64-x86-64
+
+
+ilatrans.o:     file format elf64-x86-64
+
+
+ilauplo.o:     file format elf64-x86-64
+
+
+iladiag.o:     file format elf64-x86-64
+
+
+chla_transtype.o:     file format elf64-x86-64
+
+
+ilaver.o:     file format elf64-x86-64
+
+
+lsame.o:     file format elf64-x86-64
+
+
+slamch.o:     file format elf64-x86-64
+
